@@ -1,0 +1,1804 @@
+,ID,SITECODE,REGION,MIN_LOAD,MAX_LOAD,TOTAL_LOAD
+2,3,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.088,10.743,30627.244
+3,4,Residential - Single/Duplex (Elec Heat),VI,0.0,8.423,34223.207
+6,7,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.09,5.008,13203.478
+11,12,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,2.989,6400.184
+12,13,Residential - Single/Duplex (Elec Heat),VI,0.0,8.17,17681.676
+15,16,Residential - Row Houses Units (Elec Heat),LM,0.091,5.927,9244.747
+16,17,Residential - Single/Duplex (Elec Heat),VI,0.0,7.893,33697.293
+20,21,Residential - Single/Duplex (Elec Heat),VI,0.0,8.85,25990.586
+21,22,Residential - High-Rise Apt Suites (Elec Heat),LM,0.041,9.004,20386.207
+22,23,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.074,5.43,10321.386
+27,28,Residential - Single/Duplex (Elec Heat),VI,0.0,9.659,22874.053
+28,29,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.959,2595.848
+34,35,Residential - Single/Duplex (Elec Heat),N,0.0,13.088,39219.336
+35,36,Residential - Single/Duplex (Elec Heat),VI,0.0,12.192,33235.31
+38,39,Residential - Single/Duplex (Elec Heat),SI,0.0,9.973,34723.52
+42,43,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,8.724,13319.202
+47,48,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.223,5862.486
+50,51,Residential - Row Houses Units (Elec Heat),LM,0.0,6.555,12162.481
+54,55,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,2.837,9994.092
+56,57,Residential - Row Houses Units (Elec Heat),SI,0.0,13.683,22294.72
+58,59,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.088,3.121,8979.676
+59,60,Residential - Row Houses Units (Elec Heat),N,0.0,5.558,12555.365
+60,61,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.896,6838.887
+64,65,Residential - Single/Duplex (Elec Heat),VI,0.0,3.13,5667.4478
+65,66,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.064,15709.1875
+66,67,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.061,5.181,9254.376
+76,77,Residential - Single/Duplex (Elec Heat),VI,0.0,9.781,17384.207
+80,81,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,8.404,9342.666
+81,82,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.061,6.171,16652.96
+83,84,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.872,10913.378
+84,85,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.937,7701.25
+90,91,Residential - High-Rise Apt Suites (Elec Heat),LM,0.048,5.154,5045.0654
+91,92,Residential - High-Rise Apt Suites (Elec Heat),LM,0.012,8.592,35417.11
+92,93,Residential - Row Houses Units (Elec Heat),LM,0.0,6.287,10573.037
+93,94,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.507,20425.771
+95,96,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.072,4.552,6039.723
+100,101,Residential - Single/Duplex (Elec Heat),LM,0.0,9.323,32289.51
+103,104,Residential - Single/Duplex (Elec Heat),VI,0.0,10.402,26371.422
+104,105,Residential - Row Houses Units (Elec Heat),LM,0.034,6.96,15623.898
+109,110,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.026,3.387,6134.4854
+111,112,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.252,20558.092
+113,114,Residential - Mobile (Elec Heat),SI,0.0,7.656,21347.738
+114,115,Residential - High-Rise Apt Suites (Elec Heat),LM,0.017,3.027,3579.321
+117,118,Residential - High-Rise Apt Suites (Elec Heat),LM,0.031,4.803,6713.962
+123,124,Residential - Single/Duplex (Elec Heat),LM,0.0,11.277,36241.68
+125,126,Residential - Single/Duplex (Elec Heat),SI,0.0,9.417,34453.41
+128,129,Residential - Single/Duplex (Elec Heat),LM,0.138,9.205,30325.996
+130,131,Residential - Row Houses Units (Elec Heat),LM,0.041,12.432,19680.822
+133,134,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.653,9502.368
+137,138,Residential - Single/Duplex (Elec Heat),LM,0.0,12.853,35781.93
+141,142,Residential - Single/Duplex (Elec Heat),N,0.0,7.021,25286.363
+146,147,Residential - Single/Duplex (Elec Heat),LM,0.0,4.051,7969.7515
+147,148,Residential - Row Houses Units (Elec Heat),LM,0.0,8.254,20757.67
+148,149,Residential - Single/Duplex (Elec Heat),VI,0.0,13.664,31986.203
+152,153,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.35,4144.089
+154,155,Residential - Single/Duplex (Elec Heat),VI,0.0,11.633,45827.793
+159,160,Residential - Single/Duplex (Elec Heat),VI,0.0,12.957,36242.742
+162,163,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.013,9.256,18617.928
+165,166,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.461,2224.5764
+170,171,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,4.815,8871.793
+171,172,Residential - Single/Duplex (Elec Heat),LM,0.0,10.075,34753.973
+172,173,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.112,5.61,11480.225
+173,174,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,10.518,26502.006
+175,176,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.469,12239.617
+176,177,Residential - Single/Duplex (Elec Heat),LM,0.0,11.185,37270.453
+178,179,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.065,4.041,13912.399
+184,185,Residential - Single/Duplex (Elec Heat),VI,0.0,9.165,25557.637
+188,189,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.054,5.515,16845.824
+191,192,Residential - Row Houses Units (Elec Heat),VI,0.202,11.797,53392.676
+194,195,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.043,17817.93
+198,199,Residential - Row Houses Units (Elec Heat),LM,0.0,5.073,12536.831
+206,207,Residential - Single/Duplex (Elec Heat),LM,0.0,9.625,24310.672
+207,208,Residential - Single/Duplex (Elec Heat),LM,0.0,10.874,29671.32
+208,209,Residential - Single/Duplex (Elec Heat),VI,0.0,9.984,25441.455
+211,212,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,7.34,14628.881
+212,213,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,6.453,16111.447
+214,215,Residential - Single/Duplex (Elec Heat),VI,0.0,9.753,28586.57
+217,218,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.787,8235.769
+218,219,Residential - Single/Duplex (Elec Heat),VI,0.0,7.541,29375.418
+219,220,Residential - Mobile (Elec Heat),N,0.219,5.608,17402.984
+220,221,Residential - Single/Duplex (Elec Heat),LM,0.0,9.051,14859.339
+221,222,Residential - Row Houses Units (Elec Heat),VI,0.0,10.328,29245.596
+224,225,Residential - Single/Duplex (Elec Heat),SI,0.181,7.552,21122.598
+226,227,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.959,5564.16
+230,231,Residential - Single/Duplex (Elec Heat),VI,0.326,12.942,42859.297
+231,232,Residential - Row Houses Units (Elec Heat),N,0.0,4.843,4009.5972
+232,233,Residential - Single/Duplex (Elec Heat),LM,0.0,2.537,3646.475
+235,236,Residential - Single/Duplex (Elec Heat),LM,0.071,11.786,24786.045
+240,241,Residential - Single/Duplex (Elec Heat),VI,0.0,9.785,18913.346
+241,242,Residential - Row Houses Units (Elec Heat),LM,0.0,11.572,40865.047
+243,244,Residential - Single/Duplex (Elec Heat),VI,0.0,7.55,48213.902
+244,245,Residential - Row Houses Units (Elec Heat),LM,0.0,12.115,39952.99
+245,246,Residential - Single/Duplex (Elec Heat),LM,0.0,13.114,12878.388
+249,250,Residential - Row Houses Units (Elec Heat),LM,0.0,6.466,3767.7969
+256,257,Residential - Single/Duplex (Elec Heat),VI,0.0,13.866,52370.902
+258,259,Residential - Single/Duplex (Elec Heat),VI,0.0,10.96,31400.525
+259,260,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.229,16987.744
+261,262,Residential - Single/Duplex (Elec Heat),VI,0.0,11.273,28126.28
+263,264,Residential - Single/Duplex (Elec Heat),LM,0.182,9.702,32939.176
+268,269,Residential - Mobile (Elec Heat),N,0.0,11.941,38467.37
+271,272,Residential - Single/Duplex (Elec Heat),VI,0.072,13.374,37814.75
+274,275,Residential - Single/Duplex (Elec Heat),VI,0.0,11.606,27433.19
+275,276,Residential - Single/Duplex (Elec Heat),VI,0.0,9.398,24146.912
+277,278,Residential - Row Houses Units (Elec Heat),LM,0.177,8.632,27805.395
+285,286,Residential - Single/Duplex (Elec Heat),VI,0.0,8.449,25973.598
+289,290,Residential - Single/Duplex (Elec Heat),LM,0.0,9.208,49509.914
+294,295,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,0.001,0.015
+297,298,Residential - Mobile (Elec Heat),N,0.13,6.71,17810.268
+299,300,Residential - Single/Duplex (Elec Heat),VI,0.014,8.298,11398.771
+307,308,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.199,17939.904
+309,310,Residential - Single/Duplex (Elec Heat),VI,0.193,10.447,30415.494
+310,311,Residential - Single/Duplex (Elec Heat),VI,0.0,11.035,45915.812
+314,315,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.272,14253.226
+321,322,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,6.216,10922.3545
+324,325,Residential - Row Houses Units (Elec Heat),LM,0.106,9.125,34774.6
+325,326,Residential - Single/Duplex (Elec Heat),VI,0.0,6.968,19974.828
+331,332,Residential - Single/Duplex (Elec Heat),VI,0.0,7.12,22439.066
+332,333,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.506,8455.23
+341,342,Residential - Single/Duplex (Elec Heat),LM,0.0,8.051,13752.997
+344,345,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.056,4.207,8045.318
+348,349,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.082,14765.067
+350,351,Residential - Single/Duplex (Elec Heat),LM,0.0,10.041,45814.684
+352,353,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.876,12719.808
+353,354,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.764,6882.442
+354,355,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.401,18051.549
+356,357,Residential - Single/Duplex (Elec Heat),VI,0.0,12.976,40233.367
+359,360,Residential - Single/Duplex (Elec Heat),VI,0.066,14.204,53555.918
+362,363,Residential - Row Houses Units (Elec Heat),N,0.081,10.714,40184.465
+367,368,Residential - Single/Duplex (Elec Heat),N,0.0,7.039,28582.668
+368,369,Residential - Single/Duplex (Elec Heat),VI,0.0,6.877,21845.105
+371,372,Residential - Row Houses Units (Elec Heat),SI,0.178,8.89,31522.012
+375,376,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.032,6.189,14243.461
+377,378,Residential - Mobile (Elec Heat),VI,0.0,12.586,36120.266
+378,379,Residential - High-Rise Apt Suites (Elec Heat),LM,0.04,3.742,5031.198
+381,382,Residential - Single/Duplex (Elec Heat),LM,0.0,13.102,40402.375
+383,384,Residential - Single/Duplex (Elec Heat),LM,0.0,10.439,36212.582
+385,386,Residential - High-Rise Apt Suites (Elec Heat),LM,0.018,3.642,4403.086
+392,393,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,6.522,10072.592
+393,394,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.04,7.233,15774.615
+394,395,Residential - Single/Duplex (Elec Heat),LM,0.0,9.783,35135.223
+396,397,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.061,9.507,17546.88
+399,400,Residential - Single/Duplex (Elec Heat),VI,0.0,11.672,46674.4
+400,401,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,5.619,8403.467
+402,403,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.165,7315.4946
+404,405,Residential - Single/Duplex (Elec Heat),LM,0.065,12.956,35157.95
+406,407,Residential - Single/Duplex (Elec Heat),VI,0.0,10.718,20591.176
+409,410,Residential - Row Houses Units (Elec Heat),LM,0.051,7.687,19018.607
+412,413,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.084,2.867,6134.7725
+414,415,Residential - Single/Duplex (Elec Heat),LM,0.0,9.678,38740.258
+417,418,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.972,14282.273
+419,420,Residential - Mobile (Elec Heat),VI,0.069,8.256,15444.052
+426,427,Residential - Single/Duplex (Elec Heat),SI,0.0,7.113,19059.209
+430,431,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.391,5965.423
+433,434,Residential - Single/Duplex (Elec Heat),N,0.004,11.415,34793.168
+435,436,Residential - Single/Duplex (Elec Heat),N,0.0,11.526,45248.35
+441,442,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.041,10.814,21981.45
+443,444,Residential - Single/Duplex (Elec Heat),LM,0.218,12.055,41478.17
+456,457,Residential - Row Houses Units (Elec Heat),LM,0.168,8.384,23542.182
+459,460,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.02,4.288,2447.572
+461,462,Residential - Single/Duplex (Elec Heat),LM,0.0,12.459,53433.656
+464,465,Residential - Row Houses Units (Elec Heat),LM,0.0,8.655,22433.834
+466,467,Residential - Single/Duplex (Elec Heat),VI,0.072,11.278,36443.75
+470,471,Residential - Single/Duplex (Elec Heat),LM,0.0,8.809,22788.883
+472,473,Residential - Row Houses Units (Elec Heat),LM,0.134,6.94,18440.652
+474,475,Residential - Single/Duplex (Elec Heat),VI,0.0,9.488,32190.678
+477,478,Residential - Single/Duplex (Elec Heat),VI,0.249,9.488,23905.088
+478,479,Residential - Mobile (Elec Heat),N,0.0,14.14,30536.19
+480,481,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.641,24758.613
+481,482,Residential - Single/Duplex (Elec Heat),VI,0.0,13.951,35369.996
+485,486,Residential - Single/Duplex (Elec Heat),LM,0.005,0.286,248.95149
+489,490,Residential - Single/Duplex (Elec Heat),LM,0.0,5.732,22610.271
+490,491,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.681,21047.846
+496,497,Residential - High-Rise Apt Suites (Elec Heat),VI,0.001,3.512,4417.102
+498,499,Residential - Mobile (Elec Heat),LM,0.527,7.516,50153.82
+499,500,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.684,1953.9529
+501,502,Residential - Row Houses Units (Elec Heat),VI,0.0,11.222,7165.4463
+508,509,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.073,4.922,17026.217
+509,510,Residential - High-Rise Apt Suites (Elec Heat),N,0.053,1.532,4229.456
+510,511,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,6.413,29841.582
+515,516,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.509,10795.191
+521,522,Residential - Row Houses Units (Elec Heat),LM,0.0,10.756,43574.113
+524,525,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.078,5.724,16718.535
+525,526,Residential - Single/Duplex (Elec Heat),VI,0.0,9.67,36209.1
+527,528,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.128,5574.113
+532,533,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,9.532,10704.865
+534,535,Residential - Single/Duplex (Elec Heat),VI,0.0,8.079,25335.748
+537,538,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,5.996,9319.724
+546,547,Residential - High-Rise Apt Suites (Elec Heat),LM,0.025,7.358,16724.104
+548,549,Residential - High-Rise Apt Suites (Elec Heat),LM,0.038,5.056,6698.181
+550,551,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.038,4.756,6897.6777
+552,553,Residential - High-Rise Apt Suites (Elec Heat),LM,0.062,12.835,27854.72
+554,555,Residential - Single/Duplex (Elec Heat),LM,0.0,10.068,35149.434
+558,559,Residential - Single/Duplex (Elec Heat),SI,0.0,8.105,24162.938
+561,562,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,4.312,6981.7827
+564,565,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,9.802,18865.996
+571,572,Residential - Single/Duplex (Elec Heat),VI,0.0,7.691,20687.543
+572,573,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.52,3420.104
+573,574,Residential - Single/Duplex (Elec Heat),VI,0.179,14.997,48113.34
+575,576,Residential - Single/Duplex (Elec Heat),LM,0.382,7.05,28695.457
+576,577,Residential - Mobile (Elec Heat),VI,0.072,4.68,11306.146
+577,578,Residential - Single/Duplex (Elec Heat),VI,0.0,8.481,25024.09
+579,580,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.435,11055.92
+580,581,Residential - Single/Duplex (Elec Heat),LM,0.0,14.212,47381.85
+585,586,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,6.76,10700.316
+588,589,Residential - Row Houses Units (Elec Heat),LM,0.0,7.886,21696.469
+589,590,Residential - Single/Duplex (Elec Heat),LM,0.0,12.627,41015.074
+591,592,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.505,4906.9355
+592,593,Residential - Row Houses Units (Elec Heat),LM,0.161,8.157,19377.428
+594,595,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,6.365,14699.985
+596,597,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.233,15111.722
+597,598,Residential - Row Houses Units (Elec Heat),LM,0.237,10.739,32790.273
+598,599,Residential - Row Houses Units (Elec Heat),VI,0.0,10.89,35873.535
+600,601,Residential - High-Rise Apt Suites (Elec Heat),LM,0.044,3.38,4445.9985
+601,602,Residential - Single/Duplex (Elec Heat),VI,0.155,11.172,31200.594
+606,607,Residential - High-Rise Apt Suites (Elec Heat),LM,0.046,6.353,11758.691
+609,610,Residential - Single/Duplex (Elec Heat),SI,0.0,7.643,10802.791
+614,615,Residential - High-Rise Apt Suites (Elec Heat),N,0.044,4.811,14962.555
+616,617,Residential - Single/Duplex (Elec Heat),VI,0.0,13.013,29955.105
+617,618,Residential - Mobile (Elec Heat),SI,0.128,10.533,45759.867
+621,622,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.016,2.907,5338.8164
+623,624,Residential - Single/Duplex (Elec Heat),SI,0.0,8.918,13183.578
+625,626,Residential - Row Houses Units (Elec Heat),VI,0.106,8.925,24675.934
+626,627,Residential - Row Houses Units (Elec Heat),SI,0.086,5.997,12317.383
+633,634,Residential - Single/Duplex (Elec Heat),LM,0.0,9.416,37218.49
+634,635,Residential - Single/Duplex (Elec Heat),VI,0.0,10.438,28623.805
+637,638,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.334,12423.066
+640,641,Residential - Single/Duplex (Elec Heat),LM,0.059,6.251,26071.242
+641,642,Residential - Single/Duplex (Elec Heat),VI,0.127,14.563,29953.5
+642,643,Residential - Single/Duplex (Elec Heat),VI,0.0,10.477,39376.4
+647,648,Residential - Single/Duplex (Elec Heat),VI,0.0,10.898,32605.826
+651,652,Residential - Single/Duplex (Elec Heat),VI,0.573,9.615,34751.477
+652,653,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.939,41042.875
+655,656,Residential - High-Rise Apt Suites (Elec Heat),LM,0.072,7.816,21373.377
+657,658,Residential - Single/Duplex (Elec Heat),LM,0.0,11.492,55125.445
+658,659,Residential - Single/Duplex (Elec Heat),VI,0.0,9.82,34899.562
+659,660,Residential - Single/Duplex (Elec Heat),LM,0.0,14.033,66561.18
+660,661,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.615,16795.46
+663,664,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.046,8.41,19145.883
+669,670,Residential - Row Houses Units (Elec Heat),LM,0.0,8.632,16425.213
+671,672,Residential - High-Rise Apt Suites (Elec Heat),LM,0.01,6.863,21750.723
+673,674,Residential - Single/Duplex (Elec Heat),LM,0.0,12.824,54993.6
+676,677,Residential - Single/Duplex (Elec Heat),LM,0.0,9.679,30069.982
+677,678,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.352,9268.457
+678,679,Residential - High-Rise Apt Suites (Elec Heat),LM,0.092,4.42,4775.143
+679,680,Residential - Single/Duplex (Elec Heat),LM,0.258,6.472,25727.691
+680,681,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.072,6.12,8984.347
+682,683,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.003,19839.553
+685,686,Residential - Single/Duplex (Elec Heat),LM,0.0,7.189,14076.48
+697,698,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.056,2.508,6118.91
+703,704,Residential - High-Rise Apt Suites (Elec Heat),LM,0.081,7.755,16802.578
+704,705,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.6,10308.522
+709,710,Residential - Single/Duplex (Elec Heat),SI,0.0,10.41,7288.566
+710,711,Residential - Row Houses Units (Elec Heat),SI,0.0,4.989,17339.203
+711,712,Residential - Single/Duplex (Elec Heat),VI,0.149,8.501,25819.188
+715,716,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.065,5.224,15107.912
+717,718,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.041,6.486,8467.861
+721,722,Residential - Row Houses Units (Elec Heat),LM,0.0,6.974,16779.648
+722,723,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.085,3.976,8076.4077
+723,724,Residential - Row Houses Units (Elec Heat),LM,0.0,6.777,15540.045
+726,727,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.875,4734.4233
+735,736,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,12.584,16468.828
+737,738,Residential - High-Rise Apt Suites (Elec Heat),N,0.032,6.47,5179.0244
+738,739,Residential - Row Houses Units (Elec Heat),LM,0.345,9.197,34683.273
+746,747,Residential - High-Rise Apt Suites (Elec Heat),VI,0.088,5.54,12608.962
+747,748,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,1.6,12298.405
+748,749,Residential - Single/Duplex (Elec Heat),LM,0.0,10.236,42581.22
+749,750,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.007,2.124,2390.713
+752,753,Residential - Single/Duplex (Elec Heat),VI,0.0,8.072,15896.198
+753,754,Residential - Single/Duplex (Elec Heat),VI,0.224,9.099,24553.62
+755,756,Residential - Single/Duplex (Elec Heat),LM,0.0,6.284,23083.56
+756,757,Residential - Row Houses Units (Elec Heat),LM,0.0,5.981,10313.108
+759,760,Residential - High-Rise Apt Suites (Elec Heat),LM,0.056,5.83,12809.516
+762,763,Residential - Mobile (Elec Heat),N,0.0,12.126,54753.438
+765,766,Residential - Mobile (Elec Heat),N,0.0,6.441,16038.515
+769,770,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.648,19713.3
+770,771,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,13.255,17336.266
+779,780,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.51,10634.8955
+780,781,Residential - Single/Duplex (Elec Heat),N,0.0,11.643,48250.242
+782,783,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,2.972,8593.014
+783,784,Residential - Single/Duplex (Elec Heat),LM,0.222,6.321,22509.951
+789,790,Residential - Row Houses Units (Elec Heat),LM,0.0,9.234,23791.332
+790,791,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,6.041,10651.083
+791,792,Residential - Row Houses Units (Elec Heat),VI,0.0,9.072,24462.102
+795,796,Residential - Row Houses Units (Elec Heat),LM,0.0,12.326,36630.5
+796,797,Residential - Single/Duplex (Elec Heat),LM,0.182,10.613,37442.926
+799,800,Residential - Single/Duplex (Elec Heat),VI,0.0,8.787,19408.967
+800,801,Residential - Single/Duplex (Elec Heat),VI,0.0,12.962,36303.344
+802,803,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,8.031,8396.895
+805,806,Residential - Single/Duplex (Elec Heat),LM,0.0,10.273,26719.016
+806,807,Residential - Single/Duplex (Elec Heat),LM,0.059,12.419,36824.668
+810,811,Residential - Mobile (Elec Heat),LM,0.0,7.579,27045.203
+811,812,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,6.95,18930.473
+815,816,Residential - Single/Duplex (Elec Heat),VI,0.202,8.095,26570.807
+816,817,Residential - Single/Duplex (Elec Heat),VI,0.0,11.462,43430.367
+817,818,Residential - Single/Duplex (Elec Heat),VI,0.092,6.705,22336.406
+818,819,Residential - Single/Duplex (Elec Heat),VI,0.0,14.15,50334.2
+819,820,Residential - Single/Duplex (Elec Heat),LM,0.0,11.535,46452.918
+821,822,Residential - Single/Duplex (Elec Heat),LM,0.0,10.37,24164.225
+822,823,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.79,6196.3906
+828,829,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.25,6.676,34265.938
+836,837,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,4.355,5162.283
+837,838,Residential - Mobile (Elec Heat),SI,0.0,4.817,9512.148
+838,839,Residential - High-Rise Apt Suites (Elec Heat),LM,0.115,4.944,12976.484
+840,841,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.959,11025.226
+841,842,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.225,14036.213
+842,843,Residential - Row Houses Units (Elec Heat),LM,0.135,4.386,14621.412
+843,844,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.043,7881.523
+846,847,Residential - Single/Duplex (Elec Heat),VI,0.0,12.935,33579.008
+848,849,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,1.8,3070.8013
+850,851,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.339,3775.309
+853,854,Residential - Single/Duplex (Elec Heat),LM,0.0,7.507,33971.9
+855,856,Residential - Single/Duplex (Elec Heat),LM,0.0,8.059,29995.082
+860,861,Residential - Single/Duplex (Elec Heat),LM,0.0,11.259,48405.52
+863,864,Residential - Single/Duplex (Elec Heat),SI,0.0,14.327,42000.25
+864,865,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.936,8647.262
+870,871,Residential - Single/Duplex (Elec Heat),VI,0.0,8.249,36100.508
+871,872,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,2.919,3967.8765
+876,877,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.034,6.682,18784.982
+877,878,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.825,9290.016
+878,879,Residential - Single/Duplex (Elec Heat),VI,0.0,14.219,42302.914
+880,881,Residential - Single/Duplex (Elec Heat),VI,0.0,8.145,27523.441
+882,883,Residential - High-Rise Apt Suites (Elec Heat),LM,0.018,2.201,2720.765
+883,884,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.059,6.122,7582.2817
+891,892,Residential - High-Rise Apt Suites (Elec Heat),LM,0.108,5.821,18942.096
+892,893,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.026,3.124,3871.825
+896,897,Residential - Row Houses Units (Elec Heat),LM,0.019,6.597,17131.398
+900,901,Residential - Row Houses Units (Elec Heat),VI,0.0,8.85,26570.03
+901,902,Residential - Single/Duplex (Elec Heat),VI,0.0,9.002,16885.133
+902,903,Residential - Row Houses Units (Elec Heat),LM,0.027,10.378,32737.191
+903,904,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.633,12839.513
+910,911,Residential - Row Houses Units (Elec Heat),LM,0.0,8.646,32178.225
+912,913,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.064,6.026,16484.6
+916,917,Residential - Row Houses Units (Elec Heat),LM,0.0,6.902,24513.191
+917,918,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.664,12036.971
+918,919,Residential - Single/Duplex (Elec Heat),VI,0.218,9.531,27253.266
+922,923,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.049,6.031,13326.602
+927,928,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,0.189,2225.5347
+938,939,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,2.244,4787.5938
+944,945,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.101,6.439,12579.195
+951,952,Residential - Row Houses Units (Elec Heat),LM,0.0,7.172,22184.096
+953,954,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.058,4.932,6020.917
+955,956,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.066,15628.659
+960,961,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.69,11510.18
+963,964,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,9.587,7372.474
+971,972,Residential - Single/Duplex (Elec Heat),VI,0.0,11.686,29161.064
+974,975,Residential - Row Houses Units (Elec Heat),LM,0.0,6.853,20240.059
+977,978,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.005,6.48,9939.461
+979,980,Residential - Single/Duplex (Elec Heat),SI,0.154,6.657,52189.715
+982,983,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.066,1.578,4857.3467
+984,985,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.022,4.264,2868.33
+985,986,Residential - High-Rise Apt Suites (Elec Heat),LM,0.085,4.674,11792.914
+989,990,Residential - Single/Duplex (Elec Heat),VI,0.14,6.963,21653.76
+990,991,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.02,4.063,4016.3096
+991,992,Residential - Single/Duplex (Elec Heat),VI,0.15,9.709,28497.562
+993,994,Residential - Single/Duplex (Elec Heat),LM,0.0,4.728,11303.935
+997,998,Residential - Single/Duplex (Elec Heat),LM,0.0,5.313,28762.95
+998,999,Residential - Single/Duplex (Elec Heat),SI,0.0,10.093,11888.307
+999,1000,Residential - Single/Duplex (Elec Heat),LM,0.0,10.714,30318.447
+1002,1003,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,3.435,4363.6875
+1010,1011,Residential - Single/Duplex (Elec Heat),VI,0.0,8.937,22281.736
+1011,1012,Residential - High-Rise Apt Suites (Elec Heat),LM,0.073,4.966,11963.655
+1020,1021,Residential - Row Houses Units (Elec Heat),N,0.0,5.437,19629.604
+1021,1022,Residential - Row Houses Units (Elec Heat),SI,0.003,8.667,6089.3223
+1023,1024,Residential - High-Rise Apt Suites (Elec Heat),LM,0.025,3.279,3029.4458
+1027,1028,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.953,7558.6987
+1028,1029,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.021,6.785,23150.379
+1029,1030,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.038,6.605,5911.752
+1030,1031,Residential - Row Houses Units (Elec Heat),LM,0.0,7.564,27635.37
+1032,1033,Residential - Single/Duplex (Elec Heat),N,0.0,8.243,21999.701
+1034,1035,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.027,5.896,9005.979
+1037,1038,Residential - Single/Duplex (Elec Heat),VI,0.0,14.667,31522.86
+1039,1040,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.014,7112.2886
+1040,1041,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,9.339,12755.999
+1044,1045,Residential - Single/Duplex (Elec Heat),VI,0.0,12.459,42320.02
+1045,1046,Residential - Single/Duplex (Elec Heat),VI,0.501,9.835,39762.45
+1049,1050,Residential - Single/Duplex (Elec Heat),LM,0.101,5.629,12981.982
+1052,1053,Residential - Single/Duplex (Elec Heat),VI,0.0,11.855,39254.395
+1053,1054,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.126,16039.468
+1060,1061,Residential - Mobile (Elec Heat),N,0.0,6.589,33385.465
+1064,1065,Residential - Single/Duplex (Elec Heat),LM,0.0,11.493,37553.72
+1067,1068,Residential - Single/Duplex (Elec Heat),SI,0.0,10.124,16839.64
+1073,1074,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.42,9800.166
+1074,1075,Residential - Single/Duplex (Elec Heat),SI,0.0,11.314,43887.625
+1075,1076,Residential - Row Houses Units (Elec Heat),VI,0.0,7.004,10749.343
+1077,1078,Residential - Single/Duplex (Elec Heat),VI,0.0,12.048,60092.656
+1078,1079,Residential - Single/Duplex (Elec Heat),LM,0.0,7.889,34690.96
+1079,1080,Residential - Mobile (Elec Heat),LM,0.0,9.884,16410.738
+1080,1081,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,8.192,6103.416
+1081,1082,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.094,5.683,12736.305
+1086,1087,Residential - Row Houses Units (Elec Heat),LM,0.0,8.553,26823.105
+1087,1088,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,3.392,3038.0042
+1090,1091,Residential - Single/Duplex (Elec Heat),VI,0.0,13.98,50901.55
+1095,1096,Residential - Single/Duplex (Elec Heat),VI,0.0,10.774,47250.965
+1097,1098,Residential - Single/Duplex (Elec Heat),LM,0.0,7.618,30096.451
+1098,1099,Residential - Single/Duplex (Elec Heat),N,0.0,11.68,43157.477
+1107,1108,Residential - Row Houses Units (Elec Heat),N,0.075,4.435,5427.657
+1108,1109,Residential - Single/Duplex (Elec Heat),LM,0.0,10.234,50493.812
+1112,1113,Residential - Single/Duplex (Elec Heat),LM,0.0,13.862,40743.996
+1116,1117,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,3.903,12209.855
+1117,1118,Residential - Single/Duplex (Elec Heat),VI,0.0,13.933,37538.906
+1118,1119,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,11.85,28467.121
+1120,1121,Residential - Single/Duplex (Elec Heat),VI,0.0,13.694,35761.906
+1123,1124,Residential - Mobile (Elec Heat),LM,0.0,10.857,40413.13
+1124,1125,Residential - Single/Duplex (Elec Heat),LM,0.0,9.384,21885.537
+1128,1129,Residential - Single/Duplex (Elec Heat),SI,0.0,6.801,15985.188
+1130,1131,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,2.309,5847.9507
+1133,1134,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.115,9.967,25114.123
+1135,1136,Residential - Row Houses Units (Elec Heat),LM,0.123,11.474,34276.613
+1138,1139,Residential - Mobile (Elec Heat),N,0.0,8.379,35339.758
+1140,1141,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.17,2750.713
+1141,1142,Residential - Single/Duplex (Elec Heat),VI,0.09,14.402,28575.514
+1143,1144,Residential - Mobile (Elec Heat),LM,0.0,6.647,6849.2397
+1144,1145,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.499,8395.304
+1148,1149,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.604,19100.99
+1149,1150,Residential - Single/Duplex (Elec Heat),VI,0.0,10.825,47842.28
+1153,1154,Residential - Mobile (Elec Heat),LM,0.028,5.829,17367.223
+1157,1158,Residential - Mobile (Elec Heat),SI,0.0,11.901,27734.95
+1159,1160,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.746,26843.861
+1163,1164,Residential - High-Rise Apt Suites (Elec Heat),LM,0.061,9.383,21093.855
+1171,1172,Residential - Row Houses Units (Elec Heat),LM,0.126,10.984,15110.89
+1175,1176,Residential - Single/Duplex (Elec Heat),VI,0.0,14.974,96298.34
+1179,1180,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.528,19504.941
+1181,1182,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.022,6.009,13746.414
+1186,1187,Residential - Single/Duplex (Elec Heat),LM,0.0,4.374,10423.21
+1189,1190,Residential - Row Houses Units (Elec Heat),LM,0.0,4.275,4320.272
+1193,1194,Residential - Row Houses Units (Elec Heat),LM,0.0,8.863,18269.559
+1194,1195,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.989,8152.16
+1196,1197,Residential - Single/Duplex (Elec Heat),VI,0.398,13.863,52947.9
+1198,1199,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.656,13554.113
+1199,1200,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.091,9355.698
+1201,1202,Residential - High-Rise Apt Suites (Elec Heat),LM,0.032,6.182,4593.259
+1204,1205,Residential - Single/Duplex (Elec Heat),VI,0.0,12.479,57194.62
+1205,1206,Residential - Row Houses Units (Elec Heat),LM,0.0,9.049,15770.52
+1209,1210,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.665,8939.524
+1212,1213,Residential - Single/Duplex (Elec Heat),VI,0.088,10.353,28856.084
+1214,1215,Residential - Single/Duplex (Elec Heat),VI,0.0,14.855,24492.994
+1215,1216,Residential - Single/Duplex (Elec Heat),LM,0.0,8.126,19788.248
+1217,1218,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,5.327,14254.59
+1221,1222,Residential - Row Houses Units (Elec Heat),SI,0.0,7.763,16668.28
+1223,1224,Residential - Row Houses Units (Elec Heat),LM,0.0,7.974,18512.537
+1225,1226,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.479,7371.4507
+1226,1227,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.41,6501.454
+1231,1232,Residential - Single/Duplex (Elec Heat),LM,0.293,8.69,25687.553
+1232,1233,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.247,8227.253
+1234,1235,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.014,3.814,2823.9512
+1236,1237,Residential - Single/Duplex (Elec Heat),VI,0.0,9.931,42429.61
+1240,1241,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.856,10852.088
+1241,1242,Residential - Single/Duplex (Elec Heat),VI,0.0,9.234,19720.254
+1242,1243,Residential - Single/Duplex (Elec Heat),LM,0.0,8.792,17057.555
+1243,1244,Residential - Single/Duplex (Elec Heat),VI,0.221,12.786,52541.797
+1246,1247,Residential - Single/Duplex (Elec Heat),LM,0.0,7.679,34253.566
+1247,1248,Residential - Row Houses Units (Elec Heat),VI,0.0,10.388,26634.953
+1248,1249,Residential - Single/Duplex (Elec Heat),LM,0.204,14.519,63855.543
+1249,1250,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.464,4757.8965
+1255,1256,Residential - Row Houses Units (Elec Heat),LM,0.0,10.541,31869.412
+1257,1258,Residential - Single/Duplex (Elec Heat),VI,0.0,6.705,23711.598
+1258,1259,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.029,2.377,3277.9683
+1268,1269,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.497,5042.838
+1269,1270,Residential - Single/Duplex (Elec Heat),VI,0.058,8.777,35124.61
+1271,1272,Residential - Single/Duplex (Elec Heat),LM,0.0,10.819,20502.44
+1272,1273,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,10.405,13690.749
+1274,1275,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.113,5957.753
+1276,1277,Residential - Single/Duplex (Elec Heat),VI,0.098,10.434,34031.297
+1277,1278,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.092,4.974,3073.9907
+1280,1281,Residential - Row Houses Units (Elec Heat),SI,0.0,9.227,24213.691
+1283,1284,Residential - Row Houses Units (Elec Heat),VI,0.0,12.779,7074.206
+1284,1285,Residential - Row Houses Units (Elec Heat),SI,0.065,4.695,6744.4116
+1287,1288,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.54,15469.467
+1288,1289,Residential - Mobile (Elec Heat),VI,0.057,7.145,10767.55
+1291,1292,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.354,11209.687
+1292,1293,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.035,3.939,3323.5278
+1294,1295,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.121,19743.723
+1297,1298,Residential - Single/Duplex (Elec Heat),VI,0.0,7.158,20961.453
+1299,1300,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.984,11912.422
+1302,1303,Residential - Single/Duplex (Elec Heat),N,0.0,9.9,24080.783
+1305,1306,Residential - Single/Duplex (Elec Heat),VI,0.031,12.838,30161.98
+1307,1308,Residential - Single/Duplex (Elec Heat),VI,0.0,11.996,32086.777
+1308,1309,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.765,22188.852
+1316,1317,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,1.705,3245.788
+1317,1318,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.555,7053.6387
+1328,1329,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.181,6.569,23174.342
+1329,1330,Residential - Mobile (Elec Heat),LM,0.0,11.566,47289.57
+1333,1334,Residential - Mobile (Elec Heat),N,0.0,9.122,28615.486
+1336,1337,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.57,16990.984
+1338,1339,Residential - Row Houses Units (Elec Heat),N,0.0,5.135,10792.541
+1340,1341,Residential - Single/Duplex (Elec Heat),VI,0.0,12.499,30796.074
+1341,1342,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.021,3.96,6260.4307
+1343,1344,Residential - Row Houses Units (Elec Heat),LM,0.0,5.652,8078.0986
+1345,1346,Residential - Single/Duplex (Elec Heat),LM,0.0,8.909,20090.982
+1346,1347,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.081,3.833,17202.348
+1347,1348,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.524,14041.981
+1348,1349,Residential - Single/Duplex (Elec Heat),LM,0.0,12.343,28083.629
+1349,1350,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.147,5.513,15270.334
+1354,1355,Residential - Row Houses Units (Elec Heat),LM,0.087,7.431,25465.426
+1358,1359,Residential - Single/Duplex (Elec Heat),VI,0.0,11.16,37945.96
+1364,1365,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.243,8905.289
+1366,1367,Residential - Single/Duplex (Elec Heat),VI,0.0,9.598,24247.775
+1367,1368,Residential - Single/Duplex (Elec Heat),VI,0.0,9.795,34239.027
+1369,1370,Residential - Single/Duplex (Elec Heat),LM,0.0,8.121,19523.879
+1373,1374,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,13.04,34984.207
+1375,1376,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.712,4578.3765
+1376,1377,Residential - Row Houses Units (Elec Heat),SI,0.0,8.31,11363.827
+1380,1381,Residential - Single/Duplex (Elec Heat),VI,0.095,9.638,28085.152
+1381,1382,Residential - High-Rise Apt Suites (Elec Heat),LM,0.016,4.97,6618.68
+1382,1383,Residential - Row Houses Units (Elec Heat),LM,0.0,7.424,17067.375
+1383,1384,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.139,6259.0786
+1386,1387,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.12,7.415,16128.836
+1388,1389,Residential - Mobile (Elec Heat),VI,0.0,8.161,18913.705
+1391,1392,Residential - High-Rise Apt Suites (Elec Heat),LM,0.03,3.703,6690.612
+1393,1394,Residential - Row Houses Units (Elec Heat),LM,0.0,7.243,19606.605
+1394,1395,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.707,5149.361
+1397,1398,Residential - Single/Duplex (Elec Heat),N,0.0,14.172,48296.34
+1401,1402,Residential - Row Houses Units (Elec Heat),LM,0.0,8.274,21066.346
+1402,1403,Residential - Row Houses Units (Elec Heat),LM,0.0,6.445,21663.043
+1405,1406,Residential - Single/Duplex (Elec Heat),VI,0.0,10.314,39725.465
+1409,1410,Residential - Single/Duplex (Elec Heat),VI,0.0,11.078,30250.945
+1411,1412,Residential - Single/Duplex (Elec Heat),LM,0.0,5.38,16980.0
+1414,1415,Residential - Single/Duplex (Elec Heat),LM,0.0,11.899,38079.164
+1415,1416,Residential - Single/Duplex (Elec Heat),N,0.126,12.785,51087.707
+1429,1430,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.119,6.748,13408.36
+1432,1433,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.063,5.75,11850.148
+1433,1434,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.11,9.132,30893.09
+1435,1436,Residential - Single/Duplex (Elec Heat),LM,0.0,7.56,34223.64
+1436,1437,Residential - Single/Duplex (Elec Heat),LM,0.134,9.112,16692.982
+1439,1440,Residential - High-Rise Apt Suites (Elec Heat),SI,0.011,2.639,5224.136
+1441,1442,Residential - Single/Duplex (Elec Heat),VI,0.0,6.61,21578.861
+1442,1443,Residential - Single/Duplex (Elec Heat),VI,0.0,12.777,34757.047
+1446,1447,Residential - Mobile (Elec Heat),VI,0.0,7.359,24721.156
+1451,1452,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.105,9.173,15739.8545
+1452,1453,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.259,6549.1333
+1453,1454,Residential - Single/Duplex (Elec Heat),VI,0.0,11.153,28238.637
+1455,1456,Residential - Single/Duplex (Elec Heat),LM,0.224,12.34,49057.047
+1456,1457,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.488,17854.188
+1460,1461,Residential - Single/Duplex (Elec Heat),LM,0.0,7.492,27373.2
+1475,1476,Residential - Mobile (Elec Heat),VI,0.0,8.021,29962.303
+1476,1477,Residential - Row Houses Units (Elec Heat),N,0.0,2.996,4505.854
+1482,1483,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.285,9980.921
+1483,1484,Residential - Single/Duplex (Elec Heat),SI,0.0,10.219,22349.322
+1486,1487,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.05,3.685,7509.8457
+1489,1490,Residential - Row Houses Units (Elec Heat),LM,0.134,6.068,19001.38
+1491,1492,Residential - Single/Duplex (Elec Heat),LM,0.0,12.276,20965.059
+1492,1493,Residential - High-Rise Apt Suites (Elec Heat),N,0.028,1.952,4227.0366
+1494,1495,Residential - Single/Duplex (Elec Heat),SI,0.0,1.556,306.67902
+1495,1496,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.076,4.402,15025.412
+1496,1497,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.576,19014.787
+1497,1498,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.36,15076.71
+1506,1507,Residential - Single/Duplex (Elec Heat),LM,0.119,9.527,21694.98
+1507,1508,Residential - High-Rise Apt Suites (Elec Heat),LM,0.241,8.879,24616.17
+1510,1511,Residential - Single/Duplex (Elec Heat),SI,0.0,7.669,12502.05
+1511,1512,Residential - Single/Duplex (Elec Heat),LM,0.0,8.359,24139.033
+1513,1514,Residential - Single/Duplex (Elec Heat),LM,0.0,10.153,43473.2
+1516,1517,Residential - Single/Duplex (Elec Heat),SI,0.0,7.003,20288.15
+1518,1519,Residential - Single/Duplex (Elec Heat),VI,0.0,9.886,31308.258
+1520,1521,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.005,5.727,15085.281
+1521,1522,Residential - High-Rise Apt Suites (Elec Heat),LM,1.152,11.18,65920.17
+1523,1524,Residential - Mobile (Elec Heat),N,0.0,8.023,25480.885
+1524,1525,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,0.001,0.004
+1526,1527,Residential - Row Houses Units (Elec Heat),LM,0.061,11.411,34492.684
+1527,1528,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.618,7269.795
+1532,1533,Residential - Single/Duplex (Elec Heat),VI,0.07,8.767,37834.152
+1533,1534,Residential - Single/Duplex (Elec Heat),LM,0.399,8.734,31200.186
+1539,1540,Residential - Row Houses Units (Elec Heat),LM,0.077,8.97,28664.82
+1540,1541,Residential - Single/Duplex (Elec Heat),VI,0.0,9.628,21381.963
+1542,1543,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.063,8.762,25195.98
+1545,1546,Residential - Single/Duplex (Elec Heat),SI,0.0,7.474,24835.564
+1547,1548,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.733,8410.826
+1548,1549,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.032,8.456,17111.547
+1549,1550,Residential - Row Houses Units (Elec Heat),LM,0.034,8.629,16306.86
+1552,1553,Residential - Row Houses Units (Elec Heat),LM,0.0,10.618,24151.246
+1553,1554,Residential - Single/Duplex (Elec Heat),VI,0.0,13.564,49695.473
+1556,1557,Residential - Single/Duplex (Elec Heat),VI,0.0,11.84,32408.445
+1558,1559,Residential - Row Houses Units (Elec Heat),VI,0.0,9.893,29734.252
+1559,1560,Residential - Single/Duplex (Elec Heat),VI,0.0,9.015,40106.137
+1560,1561,Residential - Row Houses Units (Elec Heat),LM,0.009,6.775,13523.262
+1563,1564,Residential - Row Houses Units (Elec Heat),LM,0.368,5.606,24609.549
+1566,1567,Residential - Single/Duplex (Elec Heat),LM,0.0,7.845,25333.04
+1570,1571,Residential - Mobile (Elec Heat),VI,0.0,13.991,22768.168
+1571,1572,Residential - Mobile (Elec Heat),LM,0.0,3.535,14685.975
+1574,1575,Residential - Single/Duplex (Elec Heat),SI,0.0,11.224,29202.262
+1575,1576,Residential - Single/Duplex (Elec Heat),VI,0.0,8.034,10609.587
+1577,1578,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.186,7820.231
+1579,1580,Residential - Single/Duplex (Elec Heat),SI,0.0,6.947,12144.222
+1580,1581,Residential - Row Houses Units (Elec Heat),SI,0.0,8.258,14234.756
+1582,1583,Residential - Single/Duplex (Elec Heat),LM,0.109,11.493,25539.85
+1589,1590,Residential - Single/Duplex (Elec Heat),VI,0.0,10.489,40787.57
+1591,1592,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.037,6.8,12637.042
+1605,1606,Residential - High-Rise Apt Suites (Elec Heat),LM,0.046,3.443,4809.207
+1613,1614,Residential - Single/Duplex (Elec Heat),VI,0.0,6.764,22185.973
+1614,1615,Residential - Single/Duplex (Elec Heat),VI,0.0,14.779,29932.2
+1616,1617,Residential - Row Houses Units (Elec Heat),LM,0.064,3.617,6040.959
+1617,1618,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.148,5.921,15945.701
+1625,1626,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.835,8786.317
+1627,1628,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.015,6.124,9016.179
+1631,1632,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.175,7371.924
+1633,1634,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.093,2.101,4099.303
+1635,1636,Residential - Single/Duplex (Elec Heat),VI,0.0,13.991,46837.582
+1636,1637,Residential - Single/Duplex (Elec Heat),VI,0.0,8.075,40404.492
+1639,1640,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.897,17848.629
+1642,1643,Residential - Row Houses Units (Elec Heat),LM,0.125,8.136,23931.158
+1644,1645,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,4.051,6138.164
+1647,1648,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.108,7.484,24799.656
+1652,1653,Residential - Single/Duplex (Elec Heat),VI,0.0,10.72,40852.418
+1655,1656,Residential - Single/Duplex (Elec Heat),VI,0.0,12.034,41880.777
+1656,1657,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.955,7273.037
+1658,1659,Residential - Single/Duplex (Elec Heat),SI,0.0,5.456,21061.104
+1659,1660,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,4.891,12897.811
+1662,1663,Residential - Row Houses Units (Elec Heat),LM,0.0,10.029,22903.371
+1663,1664,Residential - Row Houses Units (Elec Heat),LM,0.38,6.05,20819.395
+1668,1669,Residential - Single/Duplex (Elec Heat),VI,0.0,14.85,24406.816
+1669,1670,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.406,6571.87
+1670,1671,Residential - Single/Duplex (Elec Heat),LM,0.122,7.437,23825.275
+1679,1680,Residential - Row Houses Units (Elec Heat),LM,0.0,12.777,40752.77
+1680,1681,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.344,18210.652
+1684,1685,Residential - Single/Duplex (Elec Heat),VI,0.0,7.05,19351.348
+1685,1686,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.645,8219.042
+1687,1688,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.927,9871.151
+1691,1692,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.039,2.667,4253.96
+1698,1699,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.48,1504.4365
+1699,1700,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,1.123,1836.164
+1700,1701,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.089,4670.9756
+1704,1705,Residential - High-Rise Apt Suites (Elec Heat),LM,0.007,3.484,8531.834
+1713,1714,Residential - Row Houses Units (Elec Heat),LM,0.0,7.316,15296.358
+1717,1718,Residential - Single/Duplex (Elec Heat),LM,0.0,8.089,33124.38
+1724,1725,Residential - High-Rise Apt Suites (Elec Heat),LM,0.034,2.142,2459.116
+1726,1727,Residential - Single/Duplex (Elec Heat),VI,0.0,8.646,13459.244
+1727,1728,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,8.875,23859.213
+1731,1732,Residential - Mobile (Elec Heat),VI,0.0,12.121,45700.81
+1734,1735,Residential - Single/Duplex (Elec Heat),VI,0.06,9.943,10618.297
+1735,1736,Residential - Single/Duplex (Elec Heat),SI,0.0,6.448,18533.93
+1736,1737,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.739,7228.8467
+1739,1740,Residential - Mobile (Elec Heat),VI,0.0,7.404,16681.658
+1740,1741,Residential - Single/Duplex (Elec Heat),VI,0.0,8.075,18759.486
+1747,1748,Residential - High-Rise Apt Suites (Elec Heat),LM,0.187,5.957,16956.49
+1756,1757,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.952,6051.3223
+1762,1763,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.712,2067.1812
+1767,1768,Residential - Row Houses Units (Elec Heat),LM,0.117,11.28,17848.502
+1773,1774,Residential - Single/Duplex (Elec Heat),LM,0.0,8.57,29065.877
+1774,1775,Residential - Single/Duplex (Elec Heat),LM,0.0,7.982,22705.178
+1778,1779,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.11,4.691,11534.106
+1783,1784,Residential - Single/Duplex (Elec Heat),VI,0.0,11.516,39342.992
+1788,1789,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,3.747,12365.577
+1793,1794,Residential - Single/Duplex (Elec Heat),N,0.054,6.188,13911.868
+1794,1795,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.038,5.656,9670.495
+1795,1796,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,2.082,4201.2407
+1800,1801,Residential - Single/Duplex (Elec Heat),VI,0.0,5.896,15196.135
+1802,1803,Residential - Row Houses Units (Elec Heat),LM,0.0,5.416,21414.148
+1803,1804,Residential - Single/Duplex (Elec Heat),VI,0.0,10.911,36026.066
+1806,1807,Residential - High-Rise Apt Suites (Elec Heat),LM,0.086,7.053,12119.783
+1807,1808,Residential - Single/Duplex (Elec Heat),VI,0.0,8.779,41147.746
+1815,1816,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.132,5272.9
+1816,1817,Residential - High-Rise Apt Suites (Elec Heat),LM,0.059,2.481,2664.0906
+1819,1820,Residential - Single/Duplex (Elec Heat),VI,0.049,9.315,18889.889
+1820,1821,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.533,26700.346
+1821,1822,Residential - Single/Duplex (Elec Heat),VI,0.131,10.691,45189.04
+1832,1833,Residential - Single/Duplex (Elec Heat),VI,0.0,6.857,21294.906
+1837,1838,Residential - Row Houses Units (Elec Heat),VI,0.0,2.003,1317.4785
+1838,1839,Residential - Single/Duplex (Elec Heat),LM,0.0,11.686,37043.438
+1839,1840,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.437,6311.3447
+1840,1841,Residential - Single/Duplex (Elec Heat),VI,0.0,13.728,22664.438
+1842,1843,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,9.271,14379.813
+1844,1845,Residential - Single/Duplex (Elec Heat),VI,0.0,14.905,44481.684
+1845,1846,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.004,4.126,6713.044
+1848,1849,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.858,11520.052
+1849,1850,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,3.687,10942.09
+1851,1852,Residential - Row Houses Units (Elec Heat),VI,0.033,8.288,13840.161
+1853,1854,Residential - Row Houses Units (Elec Heat),VI,0.0,6.073,8856.114
+1856,1857,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,11.224,2697.8042
+1861,1862,Residential - Single/Duplex (Elec Heat),VI,0.0,7.635,14158.428
+1862,1863,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.081,5.131,14537.575
+1870,1871,Residential - Row Houses Units (Elec Heat),LM,0.0,7.659,18979.705
+1871,1872,Residential - Mobile (Elec Heat),SI,0.0,0.869,81.04201
+1872,1873,Residential - Single/Duplex (Elec Heat),VI,0.0,11.301,26851.318
+1874,1875,Residential - Row Houses Units (Elec Heat),LM,0.0,7.9,20444.713
+1875,1876,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.45,9404.338
+1877,1878,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.562,3213.6436
+1879,1880,Residential - Single/Duplex (Elec Heat),LM,0.05,3.912,12053.5625
+1884,1885,Residential - Single/Duplex (Elec Heat),VI,0.0,10.692,32986.242
+1887,1888,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.048,3.571,6249.2
+1888,1889,Residential - Single/Duplex (Elec Heat),VI,0.0,8.221,21289.28
+1893,1894,Residential - High-Rise Apt Suites (Elec Heat),LM,0.09,6.499,16248.447
+1894,1895,Residential - High-Rise Apt Suites (Elec Heat),LM,0.009,4.676,6889.158
+1895,1896,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.863,10298.32
+1896,1897,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,1.932,2970.903
+1898,1899,Residential - High-Rise Apt Suites (Elec Heat),LM,0.039,5.606,7744.646
+1903,1904,Residential - Single/Duplex (Elec Heat),VI,0.174,12.059,52553.355
+1904,1905,Residential - Single/Duplex (Elec Heat),LM,0.0,14.424,61203.33
+1907,1908,Residential - Single/Duplex (Elec Heat),LM,0.0,7.736,27127.992
+1908,1909,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.473,20379.51
+1918,1919,Residential - Single/Duplex (Elec Heat),VI,0.0,7.3,23833.795
+1919,1920,Residential - High-Rise Apt Suites (Elec Heat),LM,0.048,3.796,6355.3735
+1921,1922,Residential - Single/Duplex (Elec Heat),VI,0.0,10.455,19796.127
+1934,1935,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,10.468,34468.96
+1935,1936,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.044,1.315,2491.1445
+1942,1943,Residential - Single/Duplex (Elec Heat),VI,0.0,8.834,27608.83
+1948,1949,Residential - Row Houses Units (Elec Heat),VI,0.0,13.086,20663.377
+1953,1954,Residential - Row Houses Units (Elec Heat),LM,0.029,3.937,8619.176
+1955,1956,Residential - Row Houses Units (Elec Heat),LM,0.018,8.959,25424.918
+1960,1961,Residential - Row Houses Units (Elec Heat),LM,0.0,7.298,31198.213
+1963,1964,Residential - Single/Duplex (Elec Heat),LM,0.0,14.301,45816.49
+1968,1969,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.366,15740.88
+1969,1970,Residential - Single/Duplex (Elec Heat),SI,0.0,9.724,35256.84
+1970,1971,Residential - Single/Duplex (Elec Heat),SI,0.097,14.542,42050.234
+1973,1974,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.566,5006.26
+1974,1975,Residential - Single/Duplex (Elec Heat),VI,0.0,10.114,24212.916
+1982,1983,Residential - Mobile (Elec Heat),SI,0.0,6.333,25194.41
+1983,1984,Residential - Single/Duplex (Elec Heat),N,0.0,11.453,35830.04
+1989,1990,Residential - Single/Duplex (Elec Heat),LM,0.0,7.438,20396.738
+1992,1993,Residential - Single/Duplex (Elec Heat),VI,0.033,5.095,7080.773
+1998,1999,Residential - Single/Duplex (Elec Heat),LM,0.0,7.749,12637.208
+1999,2000,Residential - Single/Duplex (Elec Heat),LM,0.0,7.22,17634.584
+2002,2003,Residential - High-Rise Apt Suites (Elec Heat),LM,0.134,2.859,9749.787
+2003,2004,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.133,4.276,12727.206
+2008,2009,Residential - High-Rise Apt Suites (Elec Heat),LM,0.065,5.758,14169.677
+2014,2015,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.948,31565.273
+2018,2019,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,0.995,1047.164
+2019,2020,Residential - Single/Duplex (Elec Heat),VI,0.0,14.439,42192.145
+2022,2023,Residential - Single/Duplex (Elec Heat),LM,0.0,8.744,19263.016
+2024,2025,Residential - Single/Duplex (Elec Heat),VI,0.0,11.191,33887.91
+2028,2029,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.014,2.841,4993.9375
+2030,2031,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,4.722,10603.734
+2034,2035,Residential - Single/Duplex (Elec Heat),VI,0.0,11.134,43966.49
+2038,2039,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.02,6.252,5463.1455
+2039,2040,Residential - Single/Duplex (Elec Heat),VI,0.0,11.304,30006.883
+2045,2046,Residential - Single/Duplex (Elec Heat),LM,0.0,12.735,49522.645
+2047,2048,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.65,4699.835
+2048,2049,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,2.735,5393.937
+2051,2052,Residential - Single/Duplex (Elec Heat),VI,0.0,11.797,29664.799
+2052,2053,Residential - Row Houses Units (Elec Heat),SI,0.0,1.333,5894.431
+2055,2056,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.451,15779.502
+2057,2058,Residential - Mobile (Elec Heat),N,0.0,8.014,26322.46
+2060,2061,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.498,19825.504
+2068,2069,Residential - Mobile (Elec Heat),LM,0.193,3.547,10872.063
+2073,2074,Residential - Mobile (Elec Heat),N,0.108,5.671,9445.249
+2078,2079,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.34,19559.086
+2079,2080,Residential - Single/Duplex (Elec Heat),LM,0.0,12.619,47099.457
+2081,2082,Residential - Single/Duplex (Elec Heat),SI,0.0,12.916,29695.055
+2083,2084,Residential - Row Houses Units (Elec Heat),LM,0.0,10.084,14789.849
+2090,2091,Residential - Single/Duplex (Elec Heat),VI,0.0,14.107,55568.008
+2094,2095,Residential - Mobile (Elec Heat),N,0.0,7.791,13664.23
+2099,2100,Residential - Single/Duplex (Elec Heat),VI,0.104,6.085,15171.775
+2104,2105,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.179,6.039,19657.504
+2105,2106,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.051,7.137,9919.694
+2106,2107,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.173,3471.9058
+2111,2112,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.012,3.967,7684.872
+2112,2113,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.031,11931.404
+2114,2115,Residential - Single/Duplex (Elec Heat),LM,0.25,12.201,27751.7
+2116,2117,Residential - Row Houses Units (Elec Heat),LM,0.047,6.224,14980.571
+2117,2118,Residential - Single/Duplex (Elec Heat),LM,0.0,8.64,30474.91
+2118,2119,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.041,5.48,7228.526
+2127,2128,Residential - Single/Duplex (Elec Heat),VI,0.0,14.568,6127.686
+2130,2131,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.495,16207.952
+2134,2135,Residential - Single/Duplex (Elec Heat),LM,0.0,14.95,73432.69
+2137,2138,Residential - High-Rise Apt Suites (Elec Heat),LM,0.038,4.517,8584.837
+2140,2141,Residential - Single/Duplex (Elec Heat),VI,0.0,11.953,39332.875
+2143,2144,Residential - Single/Duplex (Elec Heat),N,0.0,14.088,82670.01
+2146,2147,Residential - Single/Duplex (Elec Heat),VI,0.0,12.148,60731.96
+2147,2148,Residential - Single/Duplex (Elec Heat),LM,0.0,7.098,15569.092
+2153,2154,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.28,12884.365
+2168,2169,Residential - Single/Duplex (Elec Heat),LM,0.0,8.453,26199.23
+2172,2173,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.946,6711.1143
+2173,2174,Residential - Row Houses Units (Elec Heat),LM,0.0,8.648,20921.297
+2178,2179,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,9.918,10759.644
+2181,2182,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.524,35280.16
+2184,2185,Residential - Row Houses Units (Elec Heat),LM,0.017,7.625,6369.9697
+2185,2186,Residential - Single/Duplex (Elec Heat),LM,0.579,11.648,44557.105
+2186,2187,Residential - Row Houses Units (Elec Heat),LM,0.0,9.171,28288.574
+2187,2188,Residential - Row Houses Units (Elec Heat),LM,0.01,7.31,7888.1133
+2189,2190,Residential - Row Houses Units (Elec Heat),SI,0.0,10.691,36382.414
+2193,2194,Residential - Row Houses Units (Elec Heat),LM,0.052,5.546,11349.5205
+2197,2198,Residential - Single/Duplex (Elec Heat),VI,0.0,6.939,25007.049
+2199,2200,Residential - Single/Duplex (Elec Heat),VI,0.0,10.909,26705.332
+2201,2202,Residential - Row Houses Units (Elec Heat),LM,0.0,11.518,30127.969
+2210,2211,Residential - Single/Duplex (Elec Heat),VI,0.54,7.528,24077.38
+2212,2213,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.046,3.584,6181.7188
+2220,2221,Residential - Single/Duplex (Elec Heat),VI,0.0,7.973,11624.485
+2221,2222,Residential - Row Houses Units (Elec Heat),LM,0.137,9.773,26769.785
+2223,2224,Residential - Row Houses Units (Elec Heat),LM,0.0,10.64,40532.8
+2227,2228,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.067,13092.03
+2229,2230,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,2.369,4995.657
+2232,2233,Residential - High-Rise Apt Suites (Elec Heat),LM,0.071,6.734,15240.036
+2234,2235,Residential - High-Rise Apt Suites (Elec Heat),VI,0.029,2.974,3681.9915
+2236,2237,Residential - Row Houses Units (Elec Heat),VI,0.0,5.48,11800.087
+2240,2241,Residential - Single/Duplex (Elec Heat),LM,0.0,8.672,19205.775
+2242,2243,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.542,5238.955
+2243,2244,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.175,12613.575
+2252,2253,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,2.645,5993.0327
+2257,2258,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.726,3288.8726
+2260,2261,Residential - Single/Duplex (Elec Heat),LM,0.0,9.045,30771.973
+2261,2262,Residential - Mobile (Elec Heat),SI,0.124,4.804,11996.137
+2263,2264,Residential - Row Houses Units (Elec Heat),LM,0.0,9.646,22020.28
+2267,2268,Residential - Row Houses Units (Elec Heat),LM,0.276,9.287,39451.14
+2270,2271,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.672,4284.6416
+2279,2280,Residential - Mobile (Elec Heat),SI,0.0,6.256,29549.838
+2286,2287,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.073,19644.89
+2292,2293,Residential - Single/Duplex (Elec Heat),LM,0.0,10.264,33732.344
+2305,2306,Residential - Mobile (Elec Heat),VI,0.091,11.925,34115.742
+2309,2310,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,5.393,2789.058
+2310,2311,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.436,36314.21
+2313,2314,Residential - Row Houses Units (Elec Heat),LM,0.0,3.702,8600.387
+2315,2316,Residential - Single/Duplex (Elec Heat),LM,0.0,12.698,26144.115
+2316,2317,Residential - Row Houses Units (Elec Heat),SI,0.0,6.175,10713.634
+2320,2321,Residential - Single/Duplex (Elec Heat),VI,0.0,13.185,44615.277
+2321,2322,Residential - Row Houses Units (Elec Heat),LM,0.0,10.555,28866.5
+2323,2324,Residential - Single/Duplex (Elec Heat),N,0.0,9.207,41285.508
+2327,2328,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.062,3.944,4215.138
+2331,2332,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.117,7142.112
+2332,2333,Residential - Single/Duplex (Elec Heat),LM,0.0,8.855,14954.434
+2334,2335,Residential - Single/Duplex (Elec Heat),VI,0.103,9.544,20279.906
+2340,2341,Residential - Row Houses Units (Elec Heat),LM,0.08,7.793,23940.105
+2343,2344,Residential - Single/Duplex (Elec Heat),VI,0.0,14.789,23570.393
+2344,2345,Residential - Single/Duplex (Elec Heat),LM,0.0,7.427,26509.215
+2347,2348,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.048,6.923,7920.416
+2349,2350,Residential - Single/Duplex (Elec Heat),LM,0.0,8.055,24379.469
+2350,2351,Residential - Single/Duplex (Elec Heat),LM,0.0,9.596,27697.729
+2351,2352,Residential - Single/Duplex (Elec Heat),VI,0.0,13.189,30415.414
+2352,2353,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.827,3937.7727
+2353,2354,Residential - Single/Duplex (Elec Heat),LM,0.0,8.786,25649.148
+2354,2355,Residential - Single/Duplex (Elec Heat),LM,0.0,10.591,29244.377
+2355,2356,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,6.908,14737.722
+2370,2371,Residential - Single/Duplex (Elec Heat),VI,0.0,12.639,44346.348
+2377,2378,Residential - Single/Duplex (Elec Heat),LM,0.0,12.105,40886.31
+2378,2379,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,9.034,11952.101
+2379,2380,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.064,9879.587
+2381,2382,Residential - Row Houses Units (Elec Heat),VI,0.0,9.268,25389.562
+2384,2385,Residential - High-Rise Apt Suites (Elec Heat),LM,0.111,6.264,13386.347
+2394,2395,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.281,3986.1196
+2397,2398,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.742,16533.945
+2399,2400,Residential - Single/Duplex (Elec Heat),LM,0.23,6.603,18082.127
+2405,2406,Residential - Single/Duplex (Elec Heat),VI,0.0,10.429,26312.61
+2406,2407,Residential - Mobile (Elec Heat),SI,0.358,8.94,38826.125
+2411,2412,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.823,8216.186
+2415,2416,Residential - Single/Duplex (Elec Heat),N,0.0,5.769,25028.236
+2418,2419,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.212,7429.447
+2419,2420,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.057,5.946,12700.326
+2422,2423,Residential - Mobile (Elec Heat),SI,0.0,10.494,30141.057
+2423,2424,Residential - Single/Duplex (Elec Heat),VI,0.0,8.37,27261.912
+2432,2433,Residential - Single/Duplex (Elec Heat),VI,0.0,7.672,33748.164
+2437,2438,Residential - Single/Duplex (Elec Heat),LM,0.0,8.617,42380.355
+2438,2439,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.024,2.892,6070.337
+2439,2440,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.5,6635.9
+2440,2441,Residential - Single/Duplex (Elec Heat),LM,0.196,7.606,32364.385
+2442,2443,Residential - Single/Duplex (Elec Heat),VI,0.0,10.248,39092.664
+2448,2449,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.109,4.919,10782.274
+2449,2450,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.785,16524.232
+2451,2452,Residential - Row Houses Units (Elec Heat),LM,0.032,7.031,16021.989
+2456,2457,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,3.999,4715.6655
+2459,2460,Residential - High-Rise Apt Suites (Elec Heat),LM,0.029,1.829,1107.245
+2463,2464,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.014,4.564,4788.7544
+2465,2466,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.069,7.322,14134.9
+2466,2467,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.768,16077.48
+2467,2468,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.04,4.201,7951.92
+2470,2471,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.017,2.32,3074.4255
+2473,2474,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.806,9340.48
+2476,2477,Residential - Single/Duplex (Elec Heat),VI,0.142,7.921,19309.117
+2479,2480,Residential - Row Houses Units (Elec Heat),SI,0.044,7.359,18565.5
+2480,2481,Residential - Row Houses Units (Elec Heat),VI,0.072,4.386,16807.41
+2482,2483,Residential - Row Houses Units (Elec Heat),LM,0.026,7.064,27157.914
+2489,2490,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,10.078,35858.156
+2491,2492,Residential - High-Rise Apt Suites (Elec Heat),LM,0.015,6.123,12300.527
+2492,2493,Residential - Single/Duplex (Elec Heat),LM,0.0,14.232,39184.465
+2496,2497,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.71,8414.981
+2505,2506,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.028,6642.096
+2506,2507,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.388,3123.8772
+2507,2508,Residential - Single/Duplex (Elec Heat),SI,0.0,8.565,28406.906
+2508,2509,Residential - Single/Duplex (Elec Heat),VI,0.0,8.303,27250.656
+2510,2511,Residential - Row Houses Units (Elec Heat),VI,0.0,5.106,17035.623
+2511,2512,Residential - Single/Duplex (Elec Heat),VI,0.195,9.591,37704.363
+2512,2513,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.001,1.694,4138.25
+2514,2515,Residential - Single/Duplex (Elec Heat),LM,0.0,8.283,24867.809
+2520,2521,Residential - Single/Duplex (Elec Heat),LM,0.0,8.905,23753.855
+2521,2522,Residential - Single/Duplex (Elec Heat),VI,0.19,10.078,32951.293
+2524,2525,Residential - Row Houses Units (Elec Heat),VI,0.0,6.836,15421.151
+2528,2529,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.029,4.104,3691.699
+2530,2531,Residential - Single/Duplex (Elec Heat),VI,0.0,6.042,16082.616
+2531,2532,Residential - Row Houses Units (Elec Heat),N,0.016,13.459,22900.828
+2533,2534,Residential - Row Houses Units (Elec Heat),LM,0.0,7.59,27283.77
+2534,2535,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,3.41,5360.4365
+2539,2540,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.027,5.222,8885.159
+2541,2542,Residential - Single/Duplex (Elec Heat),VI,0.114,7.694,19468.162
+2542,2543,Residential - Single/Duplex (Elec Heat),VI,0.0,11.696,33337.465
+2543,2544,Residential - Row Houses Units (Elec Heat),N,0.083,2.487,5256.293
+2547,2548,Residential - High-Rise Apt Suites (Elec Heat),LM,0.076,3.135,4725.312
+2552,2553,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.963,15187.727
+2553,2554,Residential - Row Houses Units (Elec Heat),VI,0.0,6.088,19909.223
+2559,2560,Residential - Single/Duplex (Elec Heat),LM,0.0,11.32,42959.375
+2561,2562,Residential - Single/Duplex (Elec Heat),N,0.0,9.653,34606.89
+2562,2563,Residential - Row Houses Units (Elec Heat),VI,0.0,10.576,24219.193
+2566,2567,Residential - Row Houses Units (Elec Heat),LM,0.0,6.016,12952.157
+2567,2568,Residential - Single/Duplex (Elec Heat),LM,0.0,4.579,19362.422
+2568,2569,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,7.669,22751.998
+2569,2570,Residential - Row Houses Units (Elec Heat),LM,0.074,7.484,16823.13
+2575,2576,Residential - Single/Duplex (Elec Heat),VI,0.0,14.21,44020.434
+2576,2577,Residential - Row Houses Units (Elec Heat),VI,0.0,8.834,22418.465
+2581,2582,Residential - Row Houses Units (Elec Heat),LM,0.228,5.493,18985.602
+2582,2583,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.082,5.347,17948.902
+2587,2588,Residential - Single/Duplex (Elec Heat),VI,0.0,4.054,8138.8813
+2591,2592,Residential - Single/Duplex (Elec Heat),LM,0.0,9.595,30387.223
+2597,2598,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.822,12831.007
+2600,2601,Residential - Single/Duplex (Elec Heat),VI,0.0,8.978,26419.727
+2601,2602,Residential - Single/Duplex (Elec Heat),VI,0.0,10.042,35633.39
+2602,2603,Residential - Mobile (Elec Heat),N,0.0,3.811,14366.955
+2605,2606,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.516,21643.684
+2607,2608,Residential - Single/Duplex (Elec Heat),LM,0.0,5.752,10340.375
+2610,2611,Residential - Single/Duplex (Elec Heat),SI,0.0,6.187,21605.277
+2612,2613,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.831,3430.416
+2613,2614,Residential - Single/Duplex (Elec Heat),VI,0.0,10.614,26998.863
+2614,2615,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.035,2.108,10185.439
+2617,2618,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.42,16076.401
+2618,2619,Residential - High-Rise Apt Suites (Elec Heat),LM,0.04,7.115,18177.44
+2624,2625,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.087,8634.201
+2627,2628,Residential - Row Houses Units (Elec Heat),VI,0.0,10.071,25420.918
+2629,2630,Residential - Single/Duplex (Elec Heat),SI,0.0,10.247,37506.703
+2635,2636,Residential - Row Houses Units (Elec Heat),VI,0.0,7.672,14537.883
+2639,2640,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.146,5.755,23530.48
+2640,2641,Residential - Single/Duplex (Elec Heat),VI,0.0,4.435,7661.5156
+2641,2642,Residential - Single/Duplex (Elec Heat),SI,0.0,8.181,15642.117
+2645,2646,Residential - Mobile (Elec Heat),N,0.097,7.028,18634.875
+2646,2647,Residential - Single/Duplex (Elec Heat),LM,0.276,8.674,27887.885
+2647,2648,Residential - Row Houses Units (Elec Heat),LM,0.0,0.846,4078.539
+2649,2650,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.065,4.138,17043.723
+2651,2652,Residential - Single/Duplex (Elec Heat),LM,0.0,4.323,27668.885
+2655,2656,Residential - Single/Duplex (Elec Heat),VI,0.011,8.09,14732.243
+2656,2657,Residential - Single/Duplex (Elec Heat),LM,0.536,14.133,49415.617
+2663,2664,Residential - Single/Duplex (Elec Heat),LM,0.273,10.603,35187.54
+2664,2665,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,3.148,4784.4375
+2669,2670,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.046,1.589,2861.4194
+2678,2679,Residential - Single/Duplex (Elec Heat),SI,0.0,12.088,31347.656
+2679,2680,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.411,13159.699
+2684,2685,Residential - Single/Duplex (Elec Heat),LM,0.0,10.637,49205.06
+2687,2688,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.107,4.379,6099.332
+2691,2692,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.054,5535.1963
+2692,2693,Residential - Row Houses Units (Elec Heat),LM,0.0,4.21,7492.736
+2694,2695,Residential - Single/Duplex (Elec Heat),VI,0.0,7.05,19035.89
+2698,2699,Residential - Single/Duplex (Elec Heat),VI,0.073,12.025,34131.33
+2699,2700,Residential - Single/Duplex (Elec Heat),LM,0.0,13.565,52026.453
+2700,2701,Residential - Row Houses Units (Elec Heat),VI,0.0,8.12,21565.795
+2701,2702,Residential - Single/Duplex (Elec Heat),VI,0.0,10.584,31668.926
+2703,2704,Residential - Mobile (Elec Heat),LM,0.104,5.44,13896.968
+2704,2705,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.136,7.293,24882.855
+2706,2707,Residential - Single/Duplex (Elec Heat),LM,0.0,8.425,24842.346
+2708,2709,Residential - High-Rise Apt Suites (Elec Heat),LM,0.24,9.907,30380.715
+2710,2711,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,7.506,14931.223
+2711,2712,Residential - Row Houses Units (Elec Heat),VI,0.0,11.088,22005.148
+2713,2714,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.052,3.764,7571.289
+2715,2716,Residential - Single/Duplex (Elec Heat),VI,0.0,12.289,37769.1
+2716,2717,Residential - Row Houses Units (Elec Heat),LM,0.128,6.796,23526.006
+2721,2722,Residential - Single/Duplex (Elec Heat),LM,0.0,7.514,17471.17
+2722,2723,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.102,3.334,13014.075
+2724,2725,Residential - Low-Rise Apt Suites (Elec Heat),N,0.009,6.163,12978.28
+2730,2731,Residential - Single/Duplex (Elec Heat),SI,0.013,10.407,19470.455
+2732,2733,Residential - Row Houses Units (Elec Heat),VI,0.0,7.743,27403.74
+2734,2735,Residential - Single/Duplex (Elec Heat),SI,0.272,8.316,24122.295
+2735,2736,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.114,27020.504
+2738,2739,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,3.055,4759.548
+2741,2742,Residential - Single/Duplex (Elec Heat),VI,0.0,10.864,29827.12
+2743,2744,Residential - Row Houses Units (Elec Heat),LM,0.0,6.944,22242.613
+2747,2748,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.937,18196.34
+2755,2756,Residential - Row Houses Units (Elec Heat),LM,0.091,7.881,21800.191
+2756,2757,Residential - Single/Duplex (Elec Heat),VI,0.0,12.216,34392.84
+2757,2758,Residential - Row Houses Units (Elec Heat),N,0.0,5.806,14054.64
+2758,2759,Residential - Single/Duplex (Elec Heat),VI,0.0,5.813,11027.759
+2761,2762,Residential - Row Houses Units (Elec Heat),LM,0.077,10.679,38406.363
+2763,2764,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.077,5.526,8074.782
+2765,2766,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,2.934,4570.373
+2767,2768,Residential - Single/Duplex (Elec Heat),VI,0.0,12.409,38872.656
+2770,2771,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.105,2.841,6176.2573
+2773,2774,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,4.468,6363.48
+2776,2777,Residential - Single/Duplex (Elec Heat),VI,0.057,7.74,34864.16
+2779,2780,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.995,14294.509
+2781,2782,Residential - High-Rise Apt Suites (Elec Heat),LM,0.048,3.84,5608.0737
+2785,2786,Residential - Single/Duplex (Elec Heat),VI,0.0,11.785,41454.188
+2788,2789,Residential - Single/Duplex (Elec Heat),N,0.007,5.054,11830.025
+2789,2790,Residential - High-Rise Apt Suites (Elec Heat),LM,0.053,6.223,10135.86
+2796,2797,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.063,4.474,7876.813
+2797,2798,Residential - Single/Duplex (Elec Heat),VI,0.0,9.802,32858.977
+2800,2801,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.075,3.365,11315.951
+2802,2803,Residential - Single/Duplex (Elec Heat),LM,0.0,11.719,42834.41
+2804,2805,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.075,3.742,8182.4917
+2805,2806,Residential - Single/Duplex (Elec Heat),LM,0.376,7.974,34929.188
+2806,2807,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.051,3.268,6999.6006
+2810,2811,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,3.726,9263.323
+2812,2813,Residential - Row Houses Units (Elec Heat),VI,0.0,10.345,22675.793
+2815,2816,Residential - Single/Duplex (Elec Heat),VI,0.0,13.293,57223.734
+2816,2817,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.773,7647.5283
+2817,2818,Residential - Row Houses Units (Elec Heat),LM,0.118,10.672,41134.645
+2818,2819,Residential - Single/Duplex (Elec Heat),LM,0.0,11.865,48379.375
+2822,2823,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.017,3.329,4554.0703
+2823,2824,Residential - Single/Duplex (Elec Heat),VI,0.0,9.889,22851.598
+2827,2828,Residential - Row Houses Units (Elec Heat),LM,0.088,8.677,15977.596
+2828,2829,Residential - Single/Duplex (Elec Heat),SI,0.0,7.621,36816.883
+2833,2834,Residential - Row Houses Units (Elec Heat),N,0.024,4.911,10684.064
+2834,2835,Residential - Single/Duplex (Elec Heat),VI,0.0,7.875,21367.549
+2837,2838,Residential - Single/Duplex (Elec Heat),SI,0.0,12.726,49822.477
+2840,2841,Residential - High-Rise Apt Suites (Elec Heat),LM,0.017,2.985,3662.0813
+2843,2844,Residential - Single/Duplex (Elec Heat),VI,0.309,11.813,46794.855
+2847,2848,Residential - Single/Duplex (Elec Heat),SI,0.0,12.536,68348.88
+2848,2849,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.076,1.844,4433.631
+2863,2864,Residential - High-Rise Apt Suites (Elec Heat),VI,0.06,4.556,7364.167
+2869,2870,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.035,6.287,8028.295
+2872,2873,Residential - Single/Duplex (Elec Heat),VI,0.137,9.512,27532.53
+2881,2882,Residential - High-Rise Apt Suites (Elec Heat),N,0.022,0.516,2656.561
+2885,2886,Residential - Single/Duplex (Elec Heat),VI,0.0,10.806,30719.916
+2887,2888,Residential - High-Rise Apt Suites (Elec Heat),LM,0.017,3.663,3209.7537
+2888,2889,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.727,7630.2563
+2889,2890,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.835,6660.2363
+2890,2891,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,2.856,4823.217
+2893,2894,Residential - Single/Duplex (Elec Heat),LM,0.492,11.479,49879.17
+2895,2896,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,3.634,10948.954
+2896,2897,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.139,5894.232
+2900,2901,Residential - Single/Duplex (Elec Heat),VI,0.0,9.917,17608.615
+2901,2902,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,4.868,6139.0317
+2903,2904,Residential - Row Houses Units (Elec Heat),VI,0.007,5.862,13211.4
+2905,2906,Residential - Single/Duplex (Elec Heat),LM,0.0,6.704,14459.681
+2907,2908,Residential - Row Houses Units (Elec Heat),LM,0.0,4.989,10942.843
+2910,2911,Residential - Single/Duplex (Elec Heat),LM,0.0,11.422,48766.34
+2915,2916,Residential - Single/Duplex (Elec Heat),VI,0.0,9.824,25575.828
+2920,2921,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.039,2.03,5801.645
+2921,2922,Residential - Single/Duplex (Elec Heat),VI,0.0,8.64,18467.396
+2924,2925,Residential - Single/Duplex (Elec Heat),VI,0.0,11.314,30797.48
+2925,2926,Residential - Single/Duplex (Elec Heat),VI,0.0,9.818,34191.027
+2931,2932,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.603,8932.2705
+2936,2937,Residential - High-Rise Apt Suites (Elec Heat),LM,0.108,4.404,8271.549
+2939,2940,Residential - Single/Duplex (Elec Heat),LM,0.0,7.042,30369.078
+2940,2941,Residential - High-Rise Apt Suites (Elec Heat),LM,0.068,5.326,6650.2935
+2941,2942,Residential - Single/Duplex (Elec Heat),VI,0.0,12.527,49052.47
+2942,2943,Residential - Single/Duplex (Elec Heat),VI,0.091,8.227,38289.656
+2945,2946,Residential - Single/Duplex (Elec Heat),VI,0.063,7.801,28077.445
+2948,2949,Residential - Single/Duplex (Elec Heat),VI,0.0,9.448,35515.484
+2952,2953,Residential - Row Houses Units (Elec Heat),LM,0.111,7.988,17735.922
+2956,2957,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.314,11188.294
+2958,2959,Residential - Row Houses Units (Elec Heat),VI,0.0,10.206,31768.049
+2960,2961,Residential - Single/Duplex (Elec Heat),VI,0.0,12.051,28840.73
+2963,2964,Residential - Row Houses Units (Elec Heat),VI,0.0,12.12,30863.215
+2965,2966,Residential - Row Houses Units (Elec Heat),N,0.0,5.881,9440.8125
+2966,2967,Residential - Single/Duplex (Elec Heat),LM,0.0,7.474,16656.121
+2968,2969,Residential - Row Houses Units (Elec Heat),VI,0.148,7.653,13356.612
+2973,2974,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.038,9.441,24202.188
+2974,2975,Residential - Single/Duplex (Elec Heat),VI,0.0,9.032,29829.93
+2976,2977,Residential - Single/Duplex (Elec Heat),VI,0.0,10.28,27608.535
+2979,2980,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.033,2.925,3608.9087
+2981,2982,Residential - Single/Duplex (Elec Heat),VI,0.407,11.456,44067.094
+2983,2984,Residential - Row Houses Units (Elec Heat),LM,0.0,8.284,29534.896
+2984,2985,Residential - Single/Duplex (Elec Heat),N,0.012,5.692,14055.857
+2985,2986,Residential - Single/Duplex (Elec Heat),VI,0.0,7.986,21728.635
+2989,2990,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,5.504,15717.711
+2990,2991,Residential - Row Houses Units (Elec Heat),LM,0.0,6.047,15533.702
+2992,2993,Residential - Row Houses Units (Elec Heat),LM,0.08,9.208,23082.518
+2999,3000,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,2.195,6135.5317
+3002,3003,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.07,14593.836
+3006,3007,Residential - Single/Duplex (Elec Heat),VI,0.0,8.121,22154.234
+3008,3009,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.064,6.061,11009.518
+3009,3010,Residential - Single/Duplex (Elec Heat),VI,0.0,9.07,21224.459
+3012,3013,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.947,11699.184
+3014,3015,Residential - Single/Duplex (Elec Heat),LM,0.0,12.816,31955.232
+3015,3016,Residential - Single/Duplex (Elec Heat),VI,0.079,8.548,31279.059
+3018,3019,Residential - Single/Duplex (Elec Heat),LM,0.0,13.895,63216.98
+3020,3021,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.727,9635.823
+3021,3022,Residential - Single/Duplex (Elec Heat),VI,0.117,11.827,29789.004
+3024,3025,Residential - High-Rise Apt Suites (Elec Heat),SI,0.098,6.575,19627.545
+3028,3029,Residential - Row Houses Units (Elec Heat),VI,0.0,11.249,31664.875
+3029,3030,Residential - Single/Duplex (Elec Heat),VI,0.0,13.551,47147.293
+3030,3031,Residential - Single/Duplex (Elec Heat),LM,0.238,8.09,22716.354
+3035,3036,Residential - High-Rise Apt Suites (Elec Heat),LM,0.07,2.943,4940.966
+3036,3037,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.041,6.311,11855.525
+3038,3039,Residential - High-Rise Apt Suites (Elec Heat),LM,0.081,3.685,8961.05
+3039,3040,Residential - Single/Duplex (Elec Heat),LM,0.0,5.347,10610.942
+3042,3043,Residential - Single/Duplex (Elec Heat),SI,0.0,6.449,28172.086
+3045,3046,Residential - Row Houses Units (Elec Heat),VI,0.0,2.589,6205.3286
+3046,3047,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,6.633,13801.01
+3048,3049,Residential - Single/Duplex (Elec Heat),LM,0.0,10.459,35628.664
+3049,3050,Residential - Row Houses Units (Elec Heat),VI,0.0,8.221,14676.294
+3050,3051,Residential - Single/Duplex (Elec Heat),VI,0.078,11.633,25159.354
+3052,3053,Residential - Single/Duplex (Elec Heat),LM,0.0,5.934,19755.086
+3053,3054,Residential - Row Houses Units (Elec Heat),LM,0.235,9.701,30392.768
+3056,3057,Residential - Single/Duplex (Elec Heat),VI,0.138,6.608,18734.393
+3057,3058,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.024,4.92,3091.1812
+3060,3061,Residential - High-Rise Apt Suites (Elec Heat),LM,0.022,3.689,6022.5366
+3062,3063,Residential - Row Houses Units (Elec Heat),VI,0.0,6.242,21405.588
+3064,3065,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.06,5.406,12207.665
+3066,3067,Residential - Single/Duplex (Elec Heat),VI,0.036,8.966,21628.781
+3068,3069,Residential - Row Houses Units (Elec Heat),LM,0.096,2.523,7090.2065
+3070,3071,Residential - Single/Duplex (Elec Heat),SI,0.0,13.214,67600.55
+3072,3073,Residential - Row Houses Units (Elec Heat),LM,0.0,6.42,22007.049
+3073,3074,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.06,6511.724
+3074,3075,Residential - Single/Duplex (Elec Heat),LM,0.269,8.799,30483.61
+3079,3080,Residential - Row Houses Units (Elec Heat),VI,0.0,6.671,15388.458
+3080,3081,Residential - Mobile (Elec Heat),VI,0.0,9.637,22411.648
+3086,3087,Residential - Single/Duplex (Elec Heat),LM,0.066,7.845,21200.725
+3088,3089,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.293,7799.361
+3091,3092,Residential - Row Houses Units (Elec Heat),VI,0.097,9.079,28987.46
+3092,3093,Residential - Mobile (Elec Heat),VI,0.0,7.582,28747.725
+3102,3103,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.937,5452.0693
+3103,3104,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.064,8358.002
+3107,3108,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.368,6167.0576
+3113,3114,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.289,9356.733
+3120,3121,Residential - Single/Duplex (Elec Heat),VI,0.0,10.295,40094.54
+3124,3125,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.736,11529.752
+3125,3126,Residential - Single/Duplex (Elec Heat),N,0.0,11.908,46614.484
+3130,3131,Residential - Single/Duplex (Elec Heat),SI,0.175,6.787,20462.314
+3133,3134,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.064,6.747,12161.725
+3134,3135,Residential - Single/Duplex (Elec Heat),SI,0.0,8.846,54611.08
+3136,3137,Residential - Single/Duplex (Elec Heat),LM,0.0,9.497,33026.746
+3138,3139,Residential - Single/Duplex (Elec Heat),VI,0.0,7.949,21281.742
+3144,3145,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.003,2.816,6522.4204
+3146,3147,Residential - Single/Duplex (Elec Heat),VI,0.0,4.349,3001.4246
+3147,3148,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.151,17980.463
+3151,3152,Residential - High-Rise Apt Suites (Elec Heat),LM,0.058,4.857,13284.436
+3153,3154,Residential - Single/Duplex (Elec Heat),VI,0.0,10.229,26329.807
+3154,3155,Residential - High-Rise Apt Suites (Elec Heat),LM,0.089,6.099,15577.113
+3158,3159,Residential - Row Houses Units (Elec Heat),SI,0.166,11.509,37430.4
+3165,3166,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.709,7833.367
+3166,3167,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.885,9688.81
+3169,3170,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.061,4.216,6737.6025
+3170,3171,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.007,6.187,13222.297
+3171,3172,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,0.751,6018.203
+3174,3175,Residential - Single/Duplex (Elec Heat),N,0.0,8.669,27951.293
+3175,3176,Residential - Single/Duplex (Elec Heat),VI,0.0,12.915,31299.002
+3184,3185,Residential - Mobile (Elec Heat),VI,0.0,9.144,37731.902
+3186,3187,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.829,15204.898
+3190,3191,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.55,7441.8843
+3191,3192,Residential - Single/Duplex (Elec Heat),VI,0.0,13.071,41835.61
+3195,3196,Residential - Row Houses Units (Elec Heat),LM,0.0,9.491,27035.553
+3198,3199,Residential - High-Rise Apt Suites (Elec Heat),LM,0.014,3.791,8117.3735
+3199,3200,Residential - Single/Duplex (Elec Heat),LM,0.0,10.342,41576.992
+3206,3207,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.564,2862.661
+3209,3210,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.94,9999.989
+3211,3212,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.078,4.676,4914.1333
+3213,3214,Residential - Single/Duplex (Elec Heat),SI,0.0,3.39,7313.7314
+3220,3221,Residential - Row Houses Units (Elec Heat),VI,0.116,6.863,20657.229
+3224,3225,Residential - High-Rise Apt Suites (Elec Heat),LM,0.075,3.182,5939.338
+3233,3234,Residential - Single/Duplex (Elec Heat),LM,0.339,9.733,32355.768
+3234,3235,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.977,6786.4185
+3239,3240,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.024,4.42,9986.799
+3240,3241,Residential - Single/Duplex (Elec Heat),VI,0.0,13.189,30349.535
+3244,3245,Residential - Mobile (Elec Heat),VI,0.035,11.868,23599.998
+3245,3246,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.521,11159.91
+3246,3247,Residential - Single/Duplex (Elec Heat),VI,0.0,11.438,49206.867
+3255,3256,Residential - Single/Duplex (Elec Heat),VI,0.0,5.899,27279.07
+3257,3258,Residential - Single/Duplex (Elec Heat),LM,0.214,11.047,38001.664
+3263,3264,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,5.044,6687.2905
+3266,3267,Residential - Mobile (Elec Heat),N,0.0,11.381,24632.338
+3267,3268,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.224,6778.8936
+3271,3272,Residential - Single/Duplex (Elec Heat),SI,0.141,13.591,38553.04
+3275,3276,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.521,15183.409
+3276,3277,Residential - Single/Duplex (Elec Heat),LM,0.395,6.041,24091.281
+3277,3278,Residential - High-Rise Apt Suites (Elec Heat),LM,0.006,4.682,3321.4185
+3282,3283,Residential - Single/Duplex (Elec Heat),VI,0.0,10.266,16636.438
+3284,3285,Residential - Row Houses Units (Elec Heat),LM,0.0,9.865,24372.725
+3285,3286,Residential - Row Houses Units (Elec Heat),LM,0.0,8.169,30533.707
+3290,3291,Residential - Single/Duplex (Elec Heat),VI,0.0,8.524,21184.088
+3292,3293,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.403,3891.499
+3294,3295,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.086,9804.839
+3295,3296,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.061,8258.52
+3298,3299,Residential - Mobile (Elec Heat),SI,0.0,8.751,31508.488
+3299,3300,Residential - Single/Duplex (Elec Heat),VI,0.0,14.38,28458.88
+3301,3302,Residential - Single/Duplex (Elec Heat),LM,0.0,8.93,21923.666
+3304,3305,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.392,32090.752
+3307,3308,Residential - Single/Duplex (Elec Heat),LM,0.441,11.405,48738.098
+3308,3309,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.749,10209.369
+3310,3311,Residential - Single/Duplex (Elec Heat),SI,0.0,14.745,38192.594
+3311,3312,Residential - Row Houses Units (Elec Heat),LM,0.237,7.118,17485.984
+3312,3313,Residential - Single/Duplex (Elec Heat),VI,0.291,10.469,37411.344
+3313,3314,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.026,7.809,12514.596
+3317,3318,Residential - Single/Duplex (Elec Heat),VI,0.111,8.309,17747.352
+3318,3319,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,3.493,7985.918
+3320,3321,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.058,4.977,16263.809
+3322,3323,Residential - Single/Duplex (Elec Heat),LM,0.0,10.019,11721.373
+3323,3324,Residential - Single/Duplex (Elec Heat),LM,0.0,8.206,28675.7
+3328,3329,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.096,4.763,11732.801
+3331,3332,Residential - Single/Duplex (Elec Heat),VI,0.361,12.399,42857.91
+3332,3333,Residential - Mobile (Elec Heat),SI,0.0,10.659,34113.504
+3333,3334,Residential - Mobile (Elec Heat),LM,0.0,11.282,33519.4
+3337,3338,Residential - Single/Duplex (Elec Heat),LM,0.0,8.474,43354.25
+3340,3341,Residential - Mobile (Elec Heat),VI,0.0,8.023,26936.752
+3342,3343,Residential - Single/Duplex (Elec Heat),N,0.0,13.971,55134.566
+3343,3344,Residential - Single/Duplex (Elec Heat),VI,0.271,10.402,30920.926
+3344,3345,Residential - Single/Duplex (Elec Heat),LM,0.299,5.751,21208.346
+3345,3346,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.313,2857.7773
+3346,3347,Residential - Single/Duplex (Elec Heat),SI,0.0,10.089,37281.105
+3347,3348,Residential - Single/Duplex (Elec Heat),VI,0.0,14.41,51528.805
+3350,3351,Residential - Mobile (Elec Heat),LM,0.0,5.541,7920.8037
+3351,3352,Residential - Row Houses Units (Elec Heat),VI,0.0,7.64,26534.426
+3354,3355,Residential - Single/Duplex (Elec Heat),LM,0.0,11.466,35270.406
+3355,3356,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.578,29197.62
+3356,3357,Residential - Single/Duplex (Elec Heat),SI,0.0,7.806,26389.83
+3362,3363,Residential - Row Houses Units (Elec Heat),SI,0.0,12.098,21431.877
+3365,3366,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.46,8054.359
+3366,3367,Residential - Single/Duplex (Elec Heat),VI,0.0,11.22,35214.08
+3367,3368,Residential - Row Houses Units (Elec Heat),LM,0.0,8.518,21751.36
+3369,3370,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,7.035,7692.658
+3371,3372,Residential - Single/Duplex (Elec Heat),VI,0.113,8.5,21065.543
+3376,3377,Residential - Row Houses Units (Elec Heat),VI,0.048,2.691,7845.4375
+3378,3379,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.073,4.583,18980.945
+3380,3381,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.732,8365.425
+3381,3382,Residential - Single/Duplex (Elec Heat),VI,0.0,9.459,21682.588
+3383,3384,Residential - Row Houses Units (Elec Heat),VI,0.0,9.374,23753.3
+3385,3386,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.522,7605.9424
+3387,3388,Residential - Single/Duplex (Elec Heat),SI,0.0,12.206,6011.562
+3390,3391,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.557,2848.9546
+3391,3392,Residential - Single/Duplex (Elec Heat),LM,0.165,13.502,44511.38
+3394,3395,Residential - Single/Duplex (Elec Heat),LM,0.0,11.674,54579.137
+3395,3396,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.063,3.754,6990.6265
+3400,3401,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.694,7721.0386
+3404,3405,Residential - Row Houses Units (Elec Heat),VI,0.0,10.455,8208.445
+3407,3408,Residential - Row Houses Units (Elec Heat),VI,0.0,0.985,15.245
+3408,3409,Residential - Single/Duplex (Elec Heat),LM,0.126,10.597,28859.686
+3409,3410,Residential - Single/Duplex (Elec Heat),VI,0.0,13.606,49500.08
+3411,3412,Residential - Single/Duplex (Elec Heat),LM,0.256,7.513,18971.975
+3412,3413,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,7.428,16078.69
+3415,3416,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.584,4710.0835
+3417,3418,Residential - Single/Duplex (Elec Heat),VI,0.211,8.19,17180.879
+3423,3424,Residential - Single/Duplex (Elec Heat),SI,0.0,8.71,4088.1567
+3426,3427,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.783,4218.2637
+3432,3433,Residential - High-Rise Apt Suites (Elec Heat),LM,0.094,5.422,12812.742
+3435,3436,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.347,13528.608
+3436,3437,Residential - Single/Duplex (Elec Heat),LM,0.0,8.032,29708.742
+3437,3438,Residential - High-Rise Apt Suites (Elec Heat),LM,0.054,5.011,12795.633
+3438,3439,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,3.622,11346.858
+3440,3441,Residential - Row Houses Units (Elec Heat),LM,0.122,7.789,27506.21
+3441,3442,Residential - Row Houses Units (Elec Heat),VI,0.301,9.06,28962.398
+3443,3444,Residential - Single/Duplex (Elec Heat),LM,0.555,13.655,54196.48
+3447,3448,Residential - Single/Duplex (Elec Heat),VI,0.149,12.596,24385.31
+3452,3453,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.676,6865.5283
+3454,3455,Residential - Row Houses Units (Elec Heat),LM,0.047,7.165,21002.854
+3455,3456,Residential - Row Houses Units (Elec Heat),LM,0.0,6.451,11831.349
+3457,3458,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.058,6.211,11819.865
+3459,3460,Residential - Mobile (Elec Heat),LM,0.0,8.62,37603.523
+3460,3461,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.094,4.605,5714.597
+3463,3464,Residential - Row Houses Units (Elec Heat),N,0.0,6.751,12959.347
+3466,3467,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.228,9043.495
+3467,3468,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.204,13801.295
+3471,3472,Residential - Single/Duplex (Elec Heat),VI,0.0,8.106,21009.729
+3472,3473,Residential - Row Houses Units (Elec Heat),N,0.187,6.81,23956.543
+3473,3474,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.995,13575.158
+3477,3478,Residential - Row Houses Units (Elec Heat),VI,0.054,7.099,15392.428
+3479,3480,Residential - Single/Duplex (Elec Heat),VI,0.279,11.773,31271.02
+3481,3482,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.644,5867.594
+3482,3483,Residential - Single/Duplex (Elec Heat),LM,0.0,13.555,22530.736
+3484,3485,Residential - Single/Duplex (Elec Heat),LM,0.0,10.134,26522.406
+3485,3486,Residential - Single/Duplex (Elec Heat),VI,0.0,13.036,50871.656
+3487,3488,Residential - Single/Duplex (Elec Heat),LM,0.0,9.972,50082.305
+3489,3490,Residential - Single/Duplex (Elec Heat),LM,0.348,12.821,43637.29
+3495,3496,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.057,4.181,10734.248
+3496,3497,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,4.344,7815.2266
+3497,3498,Residential - Single/Duplex (Elec Heat),VI,0.0,8.857,24800.1
+3500,3501,Residential - Row Houses Units (Elec Heat),LM,0.0,8.246,23484.547
+3502,3503,Residential - Single/Duplex (Elec Heat),VI,0.0,7.911,30233.334
+3505,3506,Residential - Mobile (Elec Heat),N,0.0,10.51,22056.566
+3513,3514,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.487,15877.202
+3515,3516,Residential - Single/Duplex (Elec Heat),VI,0.0,10.403,33739.242
+3516,3517,Residential - High-Rise Apt Suites (Elec Heat),LM,0.033,4.468,9649.242
+3517,3518,Residential - Row Houses Units (Elec Heat),LM,0.0,9.949,28369.137
+3518,3519,Residential - High-Rise Apt Suites (Elec Heat),LM,0.057,4.755,9268.331
+3520,3521,Residential - Row Houses Units (Elec Heat),LM,0.0,4.356,12812.585
+3522,3523,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,3.008,9618.8125
+3528,3529,Residential - Single/Duplex (Elec Heat),LM,0.006,5.206,9299.323
+3535,3536,Residential - Single/Duplex (Elec Heat),VI,0.0,12.255,23997.016
+3539,3540,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.259,4735.5503
+3542,3543,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.04,8.165,11153.822
+3551,3552,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.068,4.303,7896.814
+3552,3553,Residential - Single/Duplex (Elec Heat),LM,0.0,5.271,21799.492
+3555,3556,Residential - Row Houses Units (Elec Heat),LM,0.0,9.01,31545.469
+3562,3563,Residential - Single/Duplex (Elec Heat),VI,0.082,10.889,36798.305
+3564,3565,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.517,10826.679
+3565,3566,Residential - Single/Duplex (Elec Heat),SI,0.0,10.161,40234.695
+3567,3568,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.358,8617.444
+3569,3570,Residential - Row Houses Units (Elec Heat),LM,0.0,8.36,21204.227
+3571,3572,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.217,7.446,20830.29
+3574,3575,Residential - Mobile (Elec Heat),LM,0.19,7.583,18513.383
+3577,3578,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.009,4.881,11132.749
+3578,3579,Residential - High-Rise Apt Suites (Elec Heat),LM,0.078,3.943,4360.4316
+3580,3581,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.998,10880.805
+3582,3583,Residential - Single/Duplex (Elec Heat),LM,0.0,9.302,12829.782
+3584,3585,Residential - Single/Duplex (Elec Heat),VI,0.0,12.13,31988.207
+3585,3586,Residential - Row Houses Units (Elec Heat),LM,0.065,6.519,28302.557
+3589,3590,Residential - Single/Duplex (Elec Heat),VI,0.0,12.83,43328.855
+3592,3593,Residential - Single/Duplex (Elec Heat),VI,0.0,9.689,15721.154
+3594,3595,Residential - Row Houses Units (Elec Heat),LM,0.044,5.764,12129.034
+3602,3603,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.045,1.728,1578.4254
+3610,3611,Residential - Single/Duplex (Elec Heat),VI,0.352,10.853,45194.332
+3611,3612,Residential - Single/Duplex (Elec Heat),LM,0.0,10.03,35329.17
+3614,3615,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.959,9956.283
+3615,3616,Residential - High-Rise Apt Suites (Elec Heat),LM,0.03,3.918,7346.438
+3617,3618,Residential - Single/Duplex (Elec Heat),LM,0.229,9.304,26122.633
+3619,3620,Residential - Single/Duplex (Elec Heat),VI,0.0,11.495,22890.799
+3624,3625,Residential - High-Rise Apt Suites (Elec Heat),VI,0.062,3.918,7642.3213
+3625,3626,Residential - Row Houses Units (Elec Heat),LM,0.007,8.405,16395.537
+3628,3629,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.048,5.157,6410.2983
+3631,3632,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.973,7545.274
+3636,3637,Residential - Single/Duplex (Elec Heat),VI,0.0,10.023,30176.545
+3637,3638,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.038,5.799,16614.357
+3638,3639,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.268,9559.352
+3641,3642,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.132,4.995,12005.772
+3652,3653,Residential - Single/Duplex (Elec Heat),VI,0.277,7.325,23272.58
+3654,3655,Residential - Single/Duplex (Elec Heat),VI,0.069,10.339,28558.41
+3655,3656,Residential - Single/Duplex (Elec Heat),LM,0.0,10.001,25897.844
+3660,3661,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.008,5.007,6909.589
+3661,3662,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,7.541,15634.246
+3663,3664,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.804,11575.957
+3664,3665,Residential - Single/Duplex (Elec Heat),LM,0.0,10.411,31306.76
+3665,3666,Residential - Single/Duplex (Elec Heat),SI,0.479,8.648,31552.004
+3669,3670,Residential - Single/Duplex (Elec Heat),LM,0.0,10.026,26124.812
+3670,3671,Residential - High-Rise Apt Suites (Elec Heat),VI,0.01,3.335,1208.2566
+3672,3673,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.03,4.837,6023.009
+3674,3675,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.984,22136.734
+3682,3683,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.288,5.318,15284.809
+3683,3684,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.04,3.643,2830.474
+3688,3689,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.853,2286.7744
+3689,3690,Residential - High-Rise Apt Suites (Elec Heat),LM,0.11,6.159,10767.62
+3690,3691,Residential - Single/Duplex (Elec Heat),N,0.0,8.018,26745.82
+3692,3693,Residential - Row Houses Units (Elec Heat),VI,0.0,6.278,18053.58
+3698,3699,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,8.252,31450.22
+3699,3700,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.994,9466.684
+3709,3710,Residential - Single/Duplex (Elec Heat),LM,0.023,13.732,39607.016
+3711,3712,Residential - Row Houses Units (Elec Heat),LM,0.139,11.385,32595.168
+3716,3717,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,1.698,5728.2803
+3717,3718,Residential - Single/Duplex (Elec Heat),SI,0.0,8.925,35182.164
+3720,3721,Residential - Single/Duplex (Elec Heat),VI,0.0,11.229,20126.883
+3721,3722,Residential - Single/Duplex (Elec Heat),LM,0.0,10.416,43924.543
+3722,3723,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.852,10213.73
+3724,3725,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.037,4.442,4552.378
+3730,3731,Residential - High-Rise Apt Suites (Elec Heat),LM,0.084,2.849,8155.8345
+3732,3733,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.032,2.281,5731.4697
+3736,3737,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,5.628,5800.429
+3737,3738,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,6.117,19818.652
+3740,3741,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.31,6063.9893
+3741,3742,Residential - Row Houses Units (Elec Heat),LM,0.0,8.337,18713.93
+3746,3747,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,14.52,36749.473
+3747,3748,Residential - High-Rise Apt Suites (Elec Heat),LM,0.053,5.379,13356.242
+3750,3751,Residential - Single/Duplex (Elec Heat),SI,0.0,13.406,21032.0
+3754,3755,Residential - Row Houses Units (Elec Heat),LM,0.0,4.996,7951.986
+3762,3763,Residential - High-Rise Apt Suites (Elec Heat),LM,0.076,10.704,36673.344
+3764,3765,Residential - Single/Duplex (Elec Heat),N,0.0,10.847,36309.848
+3766,3767,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.844,16571.066
+3768,3769,Residential - Row Houses Units (Elec Heat),LM,0.0,12.784,39869.242
+3770,3771,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.93,7364.4185
+3780,3781,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.459,23794.314
+3781,3782,Residential - Single/Duplex (Elec Heat),SI,0.0,12.094,41878.016
+3785,3786,Residential - Mobile (Elec Heat),VI,0.0,11.346,21387.375
+3789,3790,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.313,8063.815
+3795,3796,Residential - Single/Duplex (Elec Heat),LM,0.0,5.123,10179.231
+3796,3797,Residential - Single/Duplex (Elec Heat),LM,0.0,13.241,54252.082
+3808,3809,Residential - Single/Duplex (Elec Heat),LM,0.0,10.053,28403.873
+3809,3810,Residential - Single/Duplex (Elec Heat),VI,0.0,7.817,17907.098
+3812,3813,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.047,6.061,16269.005
+3814,3815,Residential - Single/Duplex (Elec Heat),VI,0.0,9.616,31033.574
+3815,3816,Residential - Single/Duplex (Elec Heat),VI,0.049,9.453,34067.047
+3821,3822,Residential - Single/Duplex (Elec Heat),VI,0.0,7.598,21303.727
+3822,3823,Residential - Row Houses Units (Elec Heat),LM,0.092,7.303,20264.863
+3823,3824,Residential - Single/Duplex (Elec Heat),LM,0.932,10.634,48368.61
+3835,3836,Residential - High-Rise Apt Suites (Elec Heat),LM,0.046,2.061,2820.8484
+3836,3837,Residential - Single/Duplex (Elec Heat),LM,0.0,9.854,36911.805
+3838,3839,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.035,0.864,4976.5986
+3839,3840,Residential - Single/Duplex (Elec Heat),LM,0.0,11.55,26984.766
+3842,3843,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,4.73,5038.0645
+3843,3844,Residential - Single/Duplex (Elec Heat),SI,0.0,8.526,28172.633
+3846,3847,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.002,5.358,13493.0
+3848,3849,Residential - High-Rise Apt Suites (Elec Heat),LM,0.049,5.419,9076.143
+3854,3855,Residential - Mobile (Elec Heat),SI,0.007,4.353,8486.044
+3858,3859,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,3.708,3296.2505
+3859,3860,Residential - High-Rise Apt Suites (Elec Heat),LM,0.007,3.108,4646.2876
+3863,3864,Residential - Single/Duplex (Elec Heat),VI,0.0,12.85,46280.37
+3866,3867,Residential - Row Houses Units (Elec Heat),VI,0.0,5.978,14512.21
+3867,3868,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.005,16264.115
+3868,3869,Residential - Row Houses Units (Elec Heat),VI,0.0,8.895,29297.227
+3869,3870,Residential - Row Houses Units (Elec Heat),VI,0.0,5.823,12340.928
+3878,3879,Residential - Single/Duplex (Elec Heat),LM,0.044,5.332,10020.496
+3882,3883,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.006,5.803,14843.527
+3883,3884,Residential - Single/Duplex (Elec Heat),VI,0.0,10.26,25940.31
+3886,3887,Residential - High-Rise Apt Suites (Elec Heat),LM,0.074,7.238,8432.016
+3887,3888,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.609,11145.166
+3888,3889,Residential - Row Houses Units (Elec Heat),LM,0.062,7.515,17170.035
+3892,3893,Residential - Row Houses Units (Elec Heat),LM,0.0,11.66,26705.729
+3898,3899,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.932,15365.978
+3904,3905,Residential - Row Houses Units (Elec Heat),LM,0.062,8.677,20710.268
+3916,3917,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,6.231,11885.746
+3920,3921,Residential - Single/Duplex (Elec Heat),VI,0.0,9.238,26520.934
+3921,3922,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.655,5163.05
+3922,3923,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.171,4.869,19736.57
+3923,3924,Residential - Row Houses Units (Elec Heat),LM,0.071,9.073,30648.21
+3927,3928,Residential - Row Houses Units (Elec Heat),LM,0.0,10.981,30180.867
+3929,3930,Residential - Single/Duplex (Elec Heat),VI,0.097,9.196,26564.254
+3933,3934,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.034,4.275,2242.9524
+3934,3935,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,9.071,21067.936
+3941,3942,Residential - Single/Duplex (Elec Heat),VI,0.0,12.793,56561.38
+3942,3943,Residential - Single/Duplex (Elec Heat),VI,0.0,9.741,28247.568
+3944,3945,Residential - Row Houses Units (Elec Heat),LM,0.0,8.284,21802.01
+3945,3946,Residential - Single/Duplex (Elec Heat),LM,0.0,7.906,23099.51
+3953,3954,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.216,2304.6838
+3954,3955,Residential - Single/Duplex (Elec Heat),VI,0.0,7.605,2737.0574
+3956,3957,Residential - Single/Duplex (Elec Heat),LM,0.714,13.063,48804.46
+3957,3958,Residential - Single/Duplex (Elec Heat),VI,0.0,10.37,35230.69
+3962,3963,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.018,6.103,8707.607
+3963,3964,Residential - Single/Duplex (Elec Heat),LM,0.0,9.099,31638.775
+3964,3965,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.95,9798.069
+3972,3973,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,3.363,9077.171
+3973,3974,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,4.254,18983.723
+3976,3977,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.078,5.042,15281.626
+3977,3978,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.091,11191.92
+3978,3979,Residential - Single/Duplex (Elec Heat),SI,0.0,12.29,32090.07
+3979,3980,Residential - Row Houses Units (Elec Heat),LM,0.0,9.871,34155.45
+3984,3985,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.575,12567.36
+3989,3990,Residential - Single/Duplex (Elec Heat),VI,0.0,8.608,38589.266
+3998,3999,Residential - Single/Duplex (Elec Heat),VI,0.0,12.699,43851.367
+3999,4000,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,1.747,7119.2896
+4001,4002,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.001,5.609,9015.264
+4002,4003,Residential - Single/Duplex (Elec Heat),VI,0.081,12.645,24442.36
+4003,4004,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.003,2.067,2406.7166
+4007,4008,Residential - Single/Duplex (Elec Heat),VI,0.0,12.453,22837.838
+4008,4009,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.632,8271.189
+4009,4010,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.758,9388.783
+4010,4011,Residential - Single/Duplex (Elec Heat),SI,0.0,11.929,41391.91
+4016,4017,Residential - Single/Duplex (Elec Heat),VI,0.091,11.029,34387.57
+4020,4021,Residential - Row Houses Units (Elec Heat),LM,0.0,10.357,28088.27
+4024,4025,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.0,9538.192
+4028,4029,Residential - Single/Duplex (Elec Heat),LM,0.0,9.203,23156.127
+4029,4030,Residential - Single/Duplex (Elec Heat),VI,0.136,12.276,36797.473
+4031,4032,Residential - High-Rise Apt Suites (Elec Heat),LM,0.033,5.63,9816.64
+4038,4039,Residential - Row Houses Units (Elec Heat),LM,0.159,4.528,10779.649
+4039,4040,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,5.306,9682.234
+4046,4047,Residential - Single/Duplex (Elec Heat),VI,0.0,5.45,12338.026
+4047,4048,Residential - Single/Duplex (Elec Heat),VI,0.376,13.436,56707.902
+4048,4049,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.067,5.431,5076.952
+4055,4056,Residential - Single/Duplex (Elec Heat),VI,0.0,7.786,19546.05
+4056,4057,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.137,4.215,11750.275
+4058,4059,Residential - Single/Duplex (Elec Heat),VI,0.042,10.214,21994.797
+4060,4061,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.084,6.336,14249.443
+4061,4062,Residential - Single/Duplex (Elec Heat),LM,0.0,7.029,33466.766
+4064,4065,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.048,4.86,13135.12
+4065,4066,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.006,3.316,6409.262
+4066,4067,Residential - Single/Duplex (Elec Heat),LM,0.0,11.518,42419.89
+4067,4068,Residential - Row Houses Units (Elec Heat),LM,0.0,11.16,23628.068
+4070,4071,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,5.907,10478.276
+4074,4075,Residential - Single/Duplex (Elec Heat),SI,0.0,9.653,21030.229
+4079,4080,Residential - Single/Duplex (Elec Heat),VI,0.0,10.565,36893.03
+4081,4082,Residential - Single/Duplex (Elec Heat),VI,0.0,10.91,39485.113
+4082,4083,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.313,7923.057
+4085,4086,Residential - High-Rise Apt Suites (Elec Heat),LM,0.079,4.019,8343.969
+4087,4088,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,7.693,20381.81
+4088,4089,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,8.988,16911.785
+4089,4090,Residential - High-Rise Apt Suites (Elec Heat),LM,0.083,3.439,6117.5146
+4090,4091,Residential - Single/Duplex (Elec Heat),SI,0.0,8.353,14803.627
+4091,4092,Residential - Single/Duplex (Elec Heat),VI,0.0,8.053,16133.371
+4093,4094,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.026,1.278,3828.3403
+4098,4099,Residential - Single/Duplex (Elec Heat),VI,0.0,9.205,29504.355
+4101,4102,Residential - Single/Duplex (Elec Heat),VI,0.0,9.2,30569.58
+4106,4107,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.428,8106.702
+4111,4112,Residential - Single/Duplex (Elec Heat),VI,0.0,5.845,18641.945
+4117,4118,Residential - Single/Duplex (Elec Heat),VI,0.0,9.811,36306.527
+4123,4124,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.601,8124.275
+4125,4126,Residential - Single/Duplex (Elec Heat),LM,0.353,8.207,25147.342
+4132,4133,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.018,4.051,8817.61
+4134,4135,Residential - Mobile (Elec Heat),VI,0.0,2.657,8021.953
+4136,4137,Residential - Single/Duplex (Elec Heat),LM,0.0,7.89,36520.867
+4138,4139,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.066,5074.2974
+4140,4141,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.025,4.891,8953.136
+4142,4143,Residential - Row Houses Units (Elec Heat),SI,0.0,4.7,17627.125
+4144,4145,Residential - Mobile (Elec Heat),LM,0.0,10.884,31033.934
+4148,4149,Residential - High-Rise Apt Suites (Elec Heat),N,0.029,1.419,2396.6414
+4155,4156,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.033,6.838,14398.096
+4162,4163,Residential - Row Houses Units (Elec Heat),LM,0.0,8.628,15216.578
+4168,4169,Residential - Single/Duplex (Elec Heat),VI,0.0,4.172,9487.954
+4174,4175,Residential - Single/Duplex (Elec Heat),VI,0.042,12.179,31770.83
+4176,4177,Residential - Single/Duplex (Elec Heat),LM,0.0,11.716,40629.402
+4177,4178,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,2.217,4256.5366
+4181,4182,Residential - Single/Duplex (Elec Heat),VI,0.0,12.574,44388.05
+4186,4187,Residential - Single/Duplex (Elec Heat),VI,0.028,6.66,36349.387
+4189,4190,Residential - Single/Duplex (Elec Heat),SI,0.0,5.448,6765.8335
+4190,4191,Residential - Single/Duplex (Elec Heat),SI,0.0,7.406,18557.922
+4195,4196,Residential - Single/Duplex (Elec Heat),VI,0.0,11.95,35929.85
+4196,4197,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,5.401,11619.58
+4202,4203,Residential - High-Rise Apt Suites (Elec Heat),VI,0.092,7.109,12728.789
+4204,4205,Residential - Single/Duplex (Elec Heat),N,0.0,7.757,20432.596
+4208,4209,Residential - Single/Duplex (Elec Heat),LM,0.0,7.139,41507.273
+4209,4210,Residential - Mobile (Elec Heat),LM,0.036,8.368,19623.3
+4210,4211,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.096,2.526,6330.334
+4211,4212,Residential - Single/Duplex (Elec Heat),SI,0.0,13.886,39034.44
+4213,4214,Residential - Row Houses Units (Elec Heat),LM,0.112,9.274,25434.396
+4219,4220,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.143,12594.3955
+4220,4221,Residential - Single/Duplex (Elec Heat),VI,0.0,12.423,40560.832
+4223,4224,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.432,14180.474
+4225,4226,Residential - Row Houses Units (Elec Heat),LM,0.0,9.095,15839.6875
+4227,4228,Residential - Row Houses Units (Elec Heat),LM,0.0,10.905,35509.6
+4231,4232,Residential - Single/Duplex (Elec Heat),LM,0.0,8.434,17262.344
+4239,4240,Residential - Single/Duplex (Elec Heat),VI,0.0,8.422,25484.566
+4244,4245,Residential - Single/Duplex (Elec Heat),SI,0.0,13.974,35222.637
+4249,4250,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.086,5375.8125
+4251,4252,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.807,13529.158
+4252,4253,Residential - Single/Duplex (Elec Heat),LM,0.132,7.335,23782.42
+4266,4267,Residential - Single/Duplex (Elec Heat),VI,0.0,12.106,38777.438
+4268,4269,Residential - Single/Duplex (Elec Heat),VI,0.0,8.996,41033.277
+4269,4270,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,5.978,26888.143
+4271,4272,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.007,6820.636
+4272,4273,Residential - Single/Duplex (Elec Heat),VI,0.0,10.079,28575.713
+4275,4276,Residential - Mobile (Elec Heat),LM,0.0,9.879,23566.998
+4278,4279,Residential - Row Houses Units (Elec Heat),SI,0.0,5.431,16185.257
+4284,4285,Residential - Single/Duplex (Elec Heat),SI,0.0,10.219,11782.818
+4285,4286,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.63,24158.867
+4287,4288,Residential - Single/Duplex (Elec Heat),LM,0.0,10.197,24804.73
+4291,4292,Residential - Mobile (Elec Heat),SI,0.0,8.536,35515.793
+4292,4293,Residential - Row Houses Units (Elec Heat),LM,0.0,7.735,21283.688
+4294,4295,Residential - Single/Duplex (Elec Heat),VI,0.0,9.803,24679.723
+4302,4303,Residential - Mobile (Elec Heat),LM,0.0,9.712,31371.477
+4304,4305,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.029,4.05,7565.9707
+4312,4313,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.3,7.8,29293.695
+4317,4318,Residential - Single/Duplex (Elec Heat),VI,0.0,8.271,15617.253
+4320,4321,Residential - Single/Duplex (Elec Heat),VI,0.084,11.481,24587.092
+4322,4323,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.055,5.951,9748.448
+4323,4324,Residential - Single/Duplex (Elec Heat),VI,0.0,13.981,49278.273
+4328,4329,Residential - Single/Duplex (Elec Heat),LM,0.0,8.693,30441.328
+4329,4330,Residential - Single/Duplex (Elec Heat),VI,0.138,7.782,27471.871
+4330,4331,Residential - Single/Duplex (Elec Heat),LM,0.0,7.65,22279.47
+4331,4332,Residential - Low-Rise Apt Suites (Elec Heat),N,0.003,9.319,10620.301
+4341,4342,Residential - Row Houses Units (Elec Heat),LM,0.0,6.687,12330.547
+4344,4345,Residential - Single/Duplex (Elec Heat),SI,0.456,9.432,54325.59
+4346,4347,Residential - Single/Duplex (Elec Heat),VI,0.0,13.298,51986.1
+4352,4353,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.901,5333.276
+4354,4355,Residential - Single/Duplex (Elec Heat),LM,0.148,6.327,19179.117
+4357,4358,Residential - High-Rise Apt Suites (Elec Heat),LM,0.024,8.12,14996.433
+4358,4359,Residential - Single/Duplex (Elec Heat),LM,0.0,9.48,39354.35
+4360,4361,Residential - Single/Duplex (Elec Heat),SI,0.0,6.948,21590.672
+4365,4366,Residential - Single/Duplex (Elec Heat),N,0.0,6.416,17742.357
+4366,4367,Residential - Single/Duplex (Elec Heat),VI,0.0,10.76,41541.754
+4373,4374,Residential - Single/Duplex (Elec Heat),VI,0.0,10.446,24557.252
+4375,4376,Residential - Single/Duplex (Elec Heat),SI,0.0,8.803,16984.855
+4377,4378,Residential - Row Houses Units (Elec Heat),LM,0.0,8.644,20230.258
+4380,4381,Residential - Single/Duplex (Elec Heat),LM,0.0,9.126,27523.95
+4381,4382,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.322,5493.011
+4382,4383,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.535,5497.493
+4388,4389,Residential - Row Houses Units (Elec Heat),LM,0.0,10.201,29348.898
+4390,4391,Residential - Row Houses Units (Elec Heat),N,0.0,2.657,5384.6445
+4395,4396,Residential - Single/Duplex (Elec Heat),VI,0.0,10.062,26177.572
+4396,4397,Residential - Mobile (Elec Heat),VI,0.0,12.546,22625.482
+4398,4399,Residential - Row Houses Units (Elec Heat),LM,0.146,8.71,17807.94
+4403,4404,Residential - Row Houses Units (Elec Heat),LM,0.0,10.916,39365.21
+4405,4406,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.138,4.777,15327.205
+4407,4408,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.691,11162.699
+4410,4411,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.633,9230.269
+4411,4412,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.058,2.85,6081.194
+4414,4415,Residential - Single/Duplex (Elec Heat),LM,0.151,6.852,16692.822
+4417,4418,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.752,19969.213
+4425,4426,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,5.152,12657.862
+4427,4428,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,3.852,16003.26
+4428,4429,Residential - Single/Duplex (Elec Heat),LM,0.0,10.592,28669.14
+4429,4430,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.608,13341.953
+4430,4431,Residential - Single/Duplex (Elec Heat),LM,0.0,9.181,25199.248
+4437,4438,Residential - Single/Duplex (Elec Heat),VI,0.0,12.66,46068.83
+4444,4445,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,4.354,17083.68
+4447,4448,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.015,9.323,7397.363
+4449,4450,Residential - Single/Duplex (Elec Heat),LM,0.25,9.944,32367.102
+4450,4451,Residential - Row Houses Units (Elec Heat),LM,0.055,11.83,25007.973
+4452,4453,Residential - Single/Duplex (Elec Heat),VI,0.0,14.587,53997.58
+4453,4454,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.208,13497.66
+4455,4456,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.008,3.499,5701.406
+4457,4458,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.244,7446.9004
+4458,4459,Residential - Single/Duplex (Elec Heat),VI,0.172,6.239,28146.938
+4459,4460,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.015,4.14,7026.201
+4461,4462,Residential - Single/Duplex (Elec Heat),VI,0.0,9.032,30223.844
+4466,4467,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.624,4295.382
+4468,4469,Residential - Row Houses Units (Elec Heat),LM,0.017,7.883,9359.785
+4470,4471,Residential - Mobile (Elec Heat),N,0.0,10.383,20937.99
+4471,4472,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,5.376,9041.1455
+4472,4473,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,8.051,14496.522
+4473,4474,Residential - High-Rise Apt Suites (Elec Heat),LM,0.128,7.158,13777.494
+4476,4477,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.034,6.847,17803.775
+4477,4478,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.048,4564.5635
+4480,4481,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.679,15960.973
+4482,4483,Residential - Row Houses Units (Elec Heat),LM,0.0,12.872,33631.883
+4483,4484,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,6.449,14971.431
+4485,4486,Residential - Single/Duplex (Elec Heat),LM,0.835,13.289,54082.0
+4488,4489,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.327,23217.484
+4489,4490,Residential - Single/Duplex (Elec Heat),VI,0.0,14.879,59322.098
+4493,4494,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.082,5.615,10378.534
+4495,4496,Residential - Single/Duplex (Elec Heat),VI,0.0,9.449,28502.574
+4498,4499,Residential - Single/Duplex (Elec Heat),LM,0.0,5.108,21500.584
+4499,4500,Residential - Mobile (Elec Heat),N,0.0,6.888,16445.582
+4500,4501,Residential - Row Houses Units (Elec Heat),LM,0.0,10.096,31023.314
+4504,4505,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.926,14003.771
+4507,4508,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.021,7.235,22003.752
+4511,4512,Residential - Row Houses Units (Elec Heat),VI,0.147,7.96,27743.52
+4512,4513,Residential - Single/Duplex (Elec Heat),VI,0.0,8.229,21106.807
+4514,4515,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,1.874,3796.7468
+4517,4518,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,4.256,5983.0684
+4523,4524,Residential - Row Houses Units (Elec Heat),N,0.124,5.617,11480.345
+4526,4527,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.012,13988.284
+4529,4530,Residential - Single/Duplex (Elec Heat),LM,0.0,9.777,66508.4
+4530,4531,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,14.407,65115.42
+4532,4533,Residential - High-Rise Apt Suites (Elec Heat),LM,0.029,4.198,4034.6406
+4540,4541,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.653,13.918,61892.71
+4545,4546,Residential - Single/Duplex (Elec Heat),LM,0.0,8.831,26078.389
+4551,4552,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.072,9.54,43591.625
+4554,4555,Residential - Single/Duplex (Elec Heat),SI,0.0,13.452,44552.375
+4557,4558,Residential - Single/Duplex (Elec Heat),LM,0.0,6.484,21478.543
+4560,4561,Residential - Single/Duplex (Elec Heat),VI,0.0,9.054,45307.773
+4561,4562,Residential - High-Rise Apt Suites (Elec Heat),LM,0.046,2.651,5122.0312
+4564,4565,Residential - Single/Duplex (Elec Heat),VI,0.0,9.299,27299.336
+4565,4566,Residential - Single/Duplex (Elec Heat),VI,0.0,12.47,45277.176
+4567,4568,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,2.067,810.579
+4568,4569,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.089,3.838,7301.952
+4570,4571,Residential - High-Rise Apt Suites (Elec Heat),LM,0.052,4.121,7620.3545
+4572,4573,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,7.989,22561.95
+4575,4576,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.825,11169.92
+4579,4580,Residential - Single/Duplex (Elec Heat),SI,0.0,8.781,33113.2
+4580,4581,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.903,4919.503
+4583,4584,Residential - Row Houses Units (Elec Heat),LM,0.0,13.044,40196.97
+4586,4587,Residential - Row Houses Units (Elec Heat),N,0.037,9.369,22495.566
+4589,4590,Residential - High-Rise Apt Suites (Elec Heat),LM,0.074,4.621,7233.7495
+4594,4595,Residential - Single/Duplex (Elec Heat),N,0.292,9.696,29812.855
+4595,4596,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.77,14650.967
+4597,4598,Residential - High-Rise Apt Suites (Elec Heat),VI,0.03,9.381,14044.349
+4599,4600,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.115,2.58,14280.104
+4601,4602,Residential - Single/Duplex (Elec Heat),LM,0.0,10.764,37071.5
+4612,4613,Residential - Single/Duplex (Elec Heat),VI,0.0,13.139,33711.445
+4613,4614,Residential - Single/Duplex (Elec Heat),VI,0.0,12.157,28993.082
+4616,4617,Residential - Single/Duplex (Elec Heat),LM,0.0,10.513,62291.57
+4618,4619,Residential - Single/Duplex (Elec Heat),LM,0.108,9.613,34701.0
+4620,4621,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.152,8.421,25357.824
+4621,4622,Residential - Mobile (Elec Heat),SI,0.0,10.319,32625.922
+4641,4642,Residential - Row Houses Units (Elec Heat),LM,0.0,12.248,36576.18
+4642,4643,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.88,3198.0388
+4643,4644,Residential - High-Rise Apt Suites (Elec Heat),VI,0.019,3.842,8183.3516
+4644,4645,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.83,13442.79
+4645,4646,Residential - Single/Duplex (Elec Heat),VI,0.0,14.029,8213.427
+4648,4649,Residential - High-Rise Apt Suites (Elec Heat),LM,0.08,3.865,5880.467
+4649,4650,Residential - Row Houses Units (Elec Heat),N,0.016,5.117,9886.77
+4650,4651,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,7.332,9996.596
+4654,4655,Residential - Single/Duplex (Elec Heat),VI,0.0,4.893,10363.52
+4659,4660,Residential - Single/Duplex (Elec Heat),VI,0.0,9.369,35359.527
+4661,4662,Residential - Single/Duplex (Elec Heat),VI,0.613,8.642,40871.594
+4664,4665,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.412,14421.293
+4673,4674,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.077,4.153,8904.273
+4674,4675,Residential - Single/Duplex (Elec Heat),VI,0.0,13.866,52635.934
+4675,4676,Residential - Single/Duplex (Elec Heat),SI,0.0,10.26,35672.797
+4677,4678,Residential - Single/Duplex (Elec Heat),VI,0.0,8.675,32972.81
+4678,4679,Residential - Single/Duplex (Elec Heat),LM,0.0,8.578,24381.713
+4680,4681,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.336,9498.723
+4683,4684,Residential - Single/Duplex (Elec Heat),VI,0.171,14.59,52503.49
+4692,4693,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,2.498,9151.269
+4694,4695,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.136,7198.3643
+4695,4696,Residential - Row Houses Units (Elec Heat),LM,0.0,7.717,11924.641
+4698,4699,Residential - Single/Duplex (Elec Heat),VI,0.0,9.585,29584.898
+4700,4701,Residential - Low-Rise Apt Suites (Elec Heat),N,0.0,6.131,24575.654
+4702,4703,Residential - Single/Duplex (Elec Heat),VI,0.0,6.838,24628.443
+4703,4704,Residential - Single/Duplex (Elec Heat),VI,0.0,14.35,41360.293
+4705,4706,Residential - Single/Duplex (Elec Heat),LM,0.06,9.447,26782.252
+4706,4707,Residential - Row Houses Units (Elec Heat),LM,0.0,7.129,13339.732
+4710,4711,Residential - Single/Duplex (Elec Heat),VI,0.0,7.747,19999.28
+4713,4714,Residential - Single/Duplex (Elec Heat),VI,0.0,8.79,26997.223
+4727,4728,Residential - Row Houses Units (Elec Heat),LM,0.0,8.746,21842.543
+4735,4736,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.086,4.174,8323.831
+4738,4739,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.077,9.057,13566.06
+4740,4741,Residential - Single/Duplex (Elec Heat),VI,0.085,14.798,33901.344
+4742,4743,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.262,6397.226
+4743,4744,Residential - Single/Duplex (Elec Heat),LM,0.275,13.307,51961.348
+4744,4745,Residential - Mobile (Elec Heat),VI,0.0,12.717,28939.93
+4746,4747,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.412,4913.099
+4747,4748,Residential - Single/Duplex (Elec Heat),LM,0.0,13.804,48821.81
+4752,4753,Residential - High-Rise Apt Suites (Elec Heat),LM,0.127,4.04,9425.565
+4754,4755,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.053,3.777,5013.6987
+4756,4757,Residential - Row Houses Units (Elec Heat),LM,0.0,14.458,49264.383
+4760,4761,Residential - Single/Duplex (Elec Heat),VI,0.0,14.701,56919.793
+4765,4766,Residential - High-Rise Apt Suites (Elec Heat),LM,0.1,4.561,12309.856
+4769,4770,Residential - High-Rise Apt Suites (Elec Heat),LM,0.034,2.932,4337.6
+4772,4773,Residential - Single/Duplex (Elec Heat),VI,0.0,10.131,43210.805
+4775,4776,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.102,13099.807
+4776,4777,Residential - Single/Duplex (Elec Heat),LM,0.026,9.778,46460.87
+4779,4780,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.215,8886.435
+4780,4781,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,6.029,12809.238
+4786,4787,Residential - Row Houses Units (Elec Heat),SI,0.0,4.548,6586.0303
+4792,4793,Residential - Single/Duplex (Elec Heat),N,0.0,5.701,13465.39
+4793,4794,Residential - Row Houses Units (Elec Heat),LM,0.279,6.143,21487.584
+4794,4795,Residential - Single/Duplex (Elec Heat),LM,0.0,14.313,45828.023
+4795,4796,Residential - Single/Duplex (Elec Heat),VI,0.0,9.06,21431.594
+4798,4799,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.263,12035.013
+4799,4800,Residential - Single/Duplex (Elec Heat),VI,0.0,10.628,26283.318
+4802,4803,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.065,3.176,8392.719
+4806,4807,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.019,4.344,10153.516
+4808,4809,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,8.431,31616.36
+4809,4810,Residential - Row Houses Units (Elec Heat),LM,0.0,10.181,19288.95
+4810,4811,Residential - Row Houses Units (Elec Heat),LM,0.136,10.04,31999.74
+4813,4814,Residential - High-Rise Apt Suites (Elec Heat),LM,0.085,6.471,22074.982
+4817,4818,Residential - Row Houses Units (Elec Heat),LM,0.064,11.637,20048.824
+4819,4820,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.552,9768.676
+4822,4823,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.052,3.236,6828.5947
+4827,4828,Residential - Row Houses Units (Elec Heat),LM,0.0,4.949,18195.12
+4833,4834,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.0,5.205,16561.215
+4834,4835,Residential - Single/Duplex (Elec Heat),VI,0.0,13.659,45438.84
+4836,4837,Residential - Row Houses Units (Elec Heat),LM,0.031,8.729,18936.832
+4838,4839,Residential - Single/Duplex (Elec Heat),VI,0.337,7.651,27002.383
+4843,4844,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.142,9377.393
+4845,4846,Residential - Single/Duplex (Elec Heat),LM,0.177,7.563,25911.113
+4846,4847,Residential - Single/Duplex (Elec Heat),VI,0.0,5.951,15792.797
+4848,4849,Residential - Mobile (Elec Heat),VI,0.0,6.245,16336.724
+4859,4860,Residential - Row Houses Units (Elec Heat),LM,0.0,8.439,22467.629
+4860,4861,Residential - Single/Duplex (Elec Heat),VI,0.0,8.836,33979.42
+4868,4869,Residential - Mobile (Elec Heat),N,0.24,13.807,42823.41
+4869,4870,Residential - Single/Duplex (Elec Heat),VI,0.024,11.239,20902.19
+4870,4871,Residential - Single/Duplex (Elec Heat),VI,0.0,10.251,28659.857
+4875,4876,Residential - Single/Duplex (Elec Heat),VI,0.0,14.148,35308.7
+4876,4877,Residential - High-Rise Apt Suites (Elec Heat),LM,0.036,6.241,10810.659
+4880,4881,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.256,4171.589
+4881,4882,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.082,7.618,14984.082
+4882,4883,Residential - Single/Duplex (Elec Heat),VI,0.0,9.985,39968.273
+4883,4884,Residential - Mobile (Elec Heat),LM,0.0,9.115,27485.045
+4884,4885,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.042,7.66,15988.318
+4885,4886,Residential - Single/Duplex (Elec Heat),VI,0.0,5.67,10144.32
+4886,4887,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.008,4.151,4507.4556
+4888,4889,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.026,2.924,5723.919
+4889,4890,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.315,9951.786
+4890,4891,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,5.271,4678.5547
+4891,4892,Residential - Row Houses Units (Elec Heat),LM,0.0,6.523,20979.746
+4892,4893,Residential - Single/Duplex (Elec Heat),LM,0.0,9.968,34893.246
+4893,4894,Residential - Single/Duplex (Elec Heat),LM,0.0,6.054,16569.834
+4894,4895,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.084,6.447,19158.94
+4895,4896,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.195,3.328,14638.876
+4900,4901,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.031,10647.126
+4901,4902,Residential - Single/Duplex (Elec Heat),VI,0.0,13.977,7050.6055
+4906,4907,Residential - Single/Duplex (Elec Heat),N,0.161,7.874,23679.047
+4908,4909,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,4.738,8558.323
+4909,4910,Residential - Single/Duplex (Elec Heat),N,0.0,8.175,26882.396
+4910,4911,Residential - Row Houses Units (Elec Heat),LM,0.0,2.128,3617.109
+4918,4919,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.052,2.173,5156.588
+4923,4924,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.358,20007.215
+4925,4926,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.028,5.175,12246.296
+4926,4927,Residential - High-Rise Apt Suites (Elec Heat),LM,0.11,6.451,15842.19
+4927,4928,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.165,8806.131
+4928,4929,Residential - Mobile (Elec Heat),SI,0.174,7.396,38671.46
+4933,4934,Residential - Single/Duplex (Elec Heat),SI,0.0,2.198,3946.1404
+4936,4937,Residential - Single/Duplex (Elec Heat),VI,0.0,8.23,16696.572
+4937,4938,Residential - Single/Duplex (Elec Heat),N,0.0,9.289,45837.434
+4938,4939,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.088,4346.406
+4941,4942,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.033,4.745,12930.098
+4942,4943,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.851,11518.278
+4943,4944,Residential - Row Houses Units (Elec Heat),LM,0.044,7.044,13066.392
+4946,4947,Residential - Single/Duplex (Elec Heat),VI,0.0,14.411,30095.809
+4949,4950,Residential - High-Rise Apt Suites (Elec Heat),VI,0.0,5.353,10928.926
+4953,4954,Residential - Row Houses Units (Elec Heat),LM,0.0,9.504,19019.326
+4957,4958,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.754,11181.936
+4963,4964,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,2.723,3723.8765
+4966,4967,Residential - Row Houses Units (Elec Heat),LM,0.0,8.835,32704.2
+4968,4969,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.054,12540.285
+4972,4973,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,6.814,15052.459
+4973,4974,Residential - High-Rise Apt Suites (Elec Heat),N,0.0,3.455,9387.501
+4974,4975,Residential - Single/Duplex (Elec Heat),LM,0.346,8.014,36344.023
+4980,4981,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.26,5528.0195
+4982,4983,Residential - Single/Duplex (Elec Heat),SI,0.0,8.142,14900.017
+4984,4985,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,3.981,7379.577
+4987,4988,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,2.387,3560.705
+4988,4989,Residential - Row Houses Units (Elec Heat),LM,0.008,4.548,3579.2253
+4995,4996,Residential - Row Houses Units (Elec Heat),LM,0.104,9.262,30361.197
+5001,5002,Residential - Row Houses Units (Elec Heat),LM,0.132,10.136,31204.363
+5002,5003,Residential - Single/Duplex (Elec Heat),LM,0.037,5.415,16389.418
+5005,5006,Residential - Row Houses Units (Elec Heat),LM,0.022,11.524,27682.008
+5007,5008,Residential - Row Houses Units (Elec Heat),SI,0.058,3.632,6109.5967
+5008,5009,Residential - High-Rise Apt Suites (Elec Heat),SI,0.0,6.81,6982.111
+5009,5010,Residential - Single/Duplex (Elec Heat),LM,0.0,9.881,22437.281
+5010,5011,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.871,22523.748
+5017,5018,Residential - Single/Duplex (Elec Heat),VI,0.0,14.713,43233.04
+5019,5020,Residential - Row Houses Units (Elec Heat),LM,0.014,6.125,16257.476
+5021,5022,Residential - Row Houses Units (Elec Heat),LM,0.005,7.16,11661.218
+5023,5024,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.082,5.304,11596.813
+5027,5028,Residential - Single/Duplex (Elec Heat),VI,0.0,8.24,21094.496
+5029,5030,Residential - Row Houses Units (Elec Heat),VI,0.171,7.497,20733.668
+5032,5033,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.028,3.997,5789.8237
+5033,5034,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,3.894,6287.9604
+5034,5035,Residential - Row Houses Units (Elec Heat),LM,0.0,8.529,25536.877
+5036,5037,Residential - Single/Duplex (Elec Heat),VI,0.127,9.78,29946.77
+5037,5038,Residential - Single/Duplex (Elec Heat),VI,0.0,13.495,43639.71
+5039,5040,Residential - Row Houses Units (Elec Heat),N,0.083,2.606,5263.696
+5045,5046,Residential - Low-Rise Apt Suites (Elec Heat),VI,0.063,4.622,7002.315
+5046,5047,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.35,1688.0715
+5049,5050,Residential - Single/Duplex (Elec Heat),VI,0.0,12.067,43879.074
+5057,5058,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.025,3.891,5040.846
+5063,5064,Residential - Mobile (Elec Heat),VI,0.0,8.344,17833.375
+5064,5065,Residential - Mobile (Elec Heat),LM,0.0,5.497,14903.497
+5073,5074,Residential - Single/Duplex (Elec Heat),VI,0.0,8.566,30181.328
+5075,5076,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,5.245,11321.867
+5080,5081,Residential - High-Rise Apt Suites (Elec Heat),LM,0.061,2.456,4016.2036
+5082,5083,Residential - Single/Duplex (Elec Heat),VI,0.0,6.949,16242.602
+5097,5098,Residential - Single/Duplex (Elec Heat),SI,0.0,9.299,32874.57
+5098,5099,Residential - Single/Duplex (Elec Heat),VI,0.0,7.335,29791.926
+5099,5100,Residential - High-Rise Apt Suites (Elec Heat),LM,0.0,7.203,18408.354
+5101,5102,Residential - Single/Duplex (Elec Heat),LM,0.0,6.554,21423.219
+5103,5104,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,4.217,3423.2363
+5104,5105,Residential - Single/Duplex (Elec Heat),LM,0.0,10.72,33045.28
+5112,5113,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.113,1.832,7791.4897
+5113,5114,Residential - Single/Duplex (Elec Heat),SI,0.0,13.241,31049.924
+5114,5115,Residential - Single/Duplex (Elec Heat),LM,0.0,11.962,41866.746
+5116,5117,Residential - High-Rise Apt Suites (Elec Heat),LM,0.033,6.97,6872.3975
+5118,5119,Residential - Row Houses Units (Elec Heat),N,0.0,9.923,35146.832
+5125,5126,Residential - Mobile (Elec Heat),VI,0.0,8.224,23112.361
+5136,5137,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,8.7,25652.807
+5138,5139,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.029,4.327,4867.498
+5140,5141,Residential - Single/Duplex (Elec Heat),LM,0.0,10.517,40267.01
+5141,5142,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,3.158,3778.5652
+5143,5144,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.672,5432.69
+5150,5151,Residential - Low-Rise Apt Suites (Elec Heat),LM,0.0,1.65,2921.438
+5151,5152,Residential - Single/Duplex (Elec Heat),LM,0.189,8.415,23379.984
+5156,5157,Residential - Single/Duplex (Elec Heat),LM,0.0,9.348,45369.414
+5157,5158,Residential - Row Houses Units (Elec Heat),LM,0.0,10.953,28010.5
+5158,5159,Residential - Low-Rise Apt Suites (Elec Heat),SI,0.0,5.976,7237.555
+5161,5162,Residential - Single/Duplex (Elec Heat),LM,0.0,9.379,36417.473
+5162,5163,Residential - Single/Duplex (Elec Heat),VI,0.0,10.615,44344.902
